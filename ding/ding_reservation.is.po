@@ -1,0 +1,290 @@
+# $Id$
+#
+# Danish translation of Drupal (general)
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+# Generated from files:
+#  ding_reservation.module: n/a
+#  ding_reservation.info: n/a
+#  plugins/content_types/reservations/reservations.inc: n/a
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"POT-Creation-Date: 2017-12-08 17:36+0100\n"
+"PO-Revision-Date: 2018-02-01 15:29+0000\n"
+"Language-Team: Danish <EMAIL@ADDRESS>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 2.0.6\n"
+"Last-Translator: \n"
+"Language: is\n"
+
+#: ding_reservation.module:87
+msgid "Perform reservation"
+msgstr "Framkvæma pöntun"
+
+#: ding_reservation.module:88
+msgid "Perform reservation in the library system."
+msgstr "Framkvæma pöntun í bókasafnskerfinu."
+
+#: ding_reservation.module:121;316;450
+msgid "Reserve"
+msgstr "Panta"
+
+#: ding_reservation.module:176;180;216
+msgid "Error"
+msgstr "Villa"
+
+#: ding_reservation.module:176
+msgid "Only library user can make reservations."
+msgstr ""
+
+#: ding_reservation.module:180
+msgid "Unable to load information about the material."
+msgstr ""
+
+#: ding_reservation.module:198;205
+msgid "Reservation"
+msgstr "Pöntun"
+
+#: ding_reservation.module:216
+msgid "Unknown error in reservation, please contact the library."
+msgstr ""
+
+#: ding_reservation.module:347
+msgid "Please select a valid value."
+msgstr ""
+
+#: ding_reservation.module:392
+msgid "\"@title\" reserved and will be available for pickup at @branch."
+msgstr "\"@title\" er nú í pöntun og verður til afhendingar á @branch."
+
+#: ding_reservation.module:395
+msgid "\"@title\" reserved."
+msgstr ""
+
+#: ding_reservation.module:399
+msgid "You are number @number in queue."
+msgstr "Þú ert númer @number í röðinni."
+
+#: ding_reservation.module:413
+msgid "An error occurred while reserving item. Please try again later."
+msgstr "Villa kom upp við pöntun. Vinsamlega reyndu aftur síðar."
+
+#: ding_reservation.module:525
+msgid "Pickup id"
+msgstr "Pöntunarnúmer"
+
+#: ding_reservation.module:531
+msgid "Pickup date"
+msgstr "Afhendingardagur"
+
+#: ding_reservation.module:537;575;623
+msgid "Pickup branch"
+msgstr "Sækja pantanir hingað"
+
+#: ding_reservation.module:538
+msgid "Unknown branch"
+msgstr "Óþekkt safn"
+
+#: ding_reservation.module:543;581
+msgid "Reservation date"
+msgstr "Dagsetning pöntunar"
+
+#: ding_reservation.module:563
+msgid "Queue number"
+msgstr "Númer í röðinni"
+
+#: ding_reservation.module:569;617
+msgid "Expiry date"
+msgstr "Pöntun fyrnist"
+
+#: ding_reservation.module:587;635
+msgid "Order nr."
+msgstr "Pöntun nr."
+
+#: ding_reservation.module:611
+msgid "Status"
+msgstr "Staða"
+
+#: ding_reservation.module:612
+msgid "Unknown status"
+msgstr "Óþekkt staða"
+
+#: ding_reservation.module:629
+msgid "Created date"
+msgstr "Dags. stofnað"
+
+#: ding_reservation.module:653
+msgid "This reservation is about to expire."
+msgstr "Gildistími þessarar pöntunar er að renna út."
+
+#: ding_reservation.module:666
+msgid "Periodical no."
+msgstr "Árgangur og tölublað tímarits"
+
+#: ding_reservation.module:690
+msgid "Delete reservations (@count)"
+msgstr "Eyða völdum pöntunum (@count)"
+
+#: ding_reservation.module:700
+msgid "Delete all"
+msgstr "Eyða öllu"
+
+#: ding_reservation.module:712
+msgid "Update reservations (@count)"
+msgstr "Uppfæra valdar pantanir (@count)"
+
+#: ding_reservation.module:734
+msgid ""
+"The material is in transit and is still not available for loan on the library"
+msgstr "Gagnið er á milli safna og ekki til útlans sem stendur"
+
+#: ding_reservation.module:757
+msgid "On route"
+msgstr "Á leiðinni"
+
+#: ding_reservation.module:757
+msgid "(?)"
+msgstr "(?)"
+
+#: ding_reservation.module:757
+msgid ""
+"The material is on route to the library. You will be notified when it is "
+"ready for pickup."
+msgstr ""
+"Gagnið er á leið á safnið. Við látum vita þegar það er tilbúið til "
+"afhendingar."
+
+#: ding_reservation.module:854;940;48;63
+msgid "Delete reservations"
+msgstr "Eyða pöntunum"
+
+#: ding_reservation.module:878;971;1000;40
+msgid "Update reservations"
+msgstr "Breyta pöntunum"
+
+#: ding_reservation.module:893
+msgid "Are you sure you want to delete these reservations?"
+msgstr "Ertu viss um að þú viljir eyða þessum pöntunum?"
+
+#: ding_reservation.module:898;899
+msgid "Yes"
+msgstr "Já"
+
+#: ding_reservation.module:907;909
+msgid "Cancel"
+msgstr "Hætta við"
+
+#: ding_reservation.module:939
+msgid "Your reservations have been deleted."
+msgstr "Pöntununum hefur verið eytt."
+
+#: ding_reservation.module:999
+msgid "Your reservations has been updated."
+msgstr "Pantanirnar hafa verið uppfærðar."
+
+#: ding_reservation.module:1025
+msgid "Select branch"
+msgstr "Velja safn"
+
+#: ding_reservation.module:1033
+msgid ""
+"In order to make quick reservations, you must select a default pickup branch."
+msgstr ""
+"Til þess að geta pantað, þarftu fyrst að velja á hvaða safn þú vilt sækja "
+"pantanir."
+
+#: ding_reservation.module:1065
+msgid "Select interest period"
+msgstr "Veldu gildistíma pöntunar"
+
+#: ding_reservation.module:1073
+msgid "Select an interest period."
+msgstr "Veldu gildistíma pöntunar."
+
+#: ding_reservation.module:1112
+msgid "Disable interests period"
+msgstr "Afvirkja gildistíma pantana"
+
+#: ding_reservation.module:1113
+msgid "This will disable \"Interest date\" functionality."
+msgstr "Með þessu geta notendur ekki lengur stillt gildistíma pantana."
+
+#: ding_reservation.module:414
+msgid "ding_reservation"
+msgstr "ding_reservation"
+
+#: ding_reservation.module:414
+msgid "Error while reserving, message: @message"
+msgstr "Villa við pöntun, villuboð: @message"
+
+#: ding_reservation.info:0
+msgid "Ding reservation"
+msgstr "Pöntun"
+
+#: ding_reservation.info:0
+msgid "Allows users to reserve  materials."
+msgstr "Heimila notendum pantanir á efni."
+
+#: ding_reservation.info:0
+msgid "Ding!"
+msgstr "Ding!"
+
+#: plugins/content_types/reservations/reservations.inc:9
+msgid "User reservation list"
+msgstr "Listi yfir pantanir notanda"
+
+#: plugins/content_types/reservations/reservations.inc:10
+msgid "The current reservations for a user"
+msgstr "Núverandi pantanir notanda"
+
+#: plugins/content_types/reservations/reservations.inc:13;14
+msgid "User"
+msgstr "Notandi"
+
+#: plugins/content_types/reservations/reservations.inc:25
+msgid "My reservations"
+msgstr "Pantanirnar mínar"
+
+#: plugins/content_types/reservations/reservations.inc:121
+msgid "Reservation list type(s)"
+msgstr ""
+
+#: plugins/content_types/reservations/reservations.inc:123
+msgid "Not ready for pickup"
+msgstr "Ekki tilbúið til afhendingar"
+
+#: plugins/content_types/reservations/reservations.inc:124
+msgid "Ready for pickup"
+msgstr "Tilbúið til afhendingar"
+
+#: plugins/content_types/reservations/reservations.inc:125
+msgid "Interlibrary loans"
+msgstr ""
+
+#: plugins/content_types/reservations/reservations.inc:132
+msgid "List title"
+msgstr "Titill lista"
+
+#: plugins/content_types/reservations/reservations.inc:138
+msgid "Empty text"
+msgstr "Texti fyrir engar niðurstöður"
+
+#: plugins/content_types/reservations/reservations.inc:144
+msgid "Form to user for reservations"
+msgstr ""
+
+#: plugins/content_types/reservations/reservations.inc:146
+msgid "Reservation form"
+msgstr "Pöntunarform"
+
+#: plugins/content_types/reservations/reservations.inc:147
+msgid "Reservations ready form"
+msgstr ""
+
+#: plugins/content_types/reservations/reservations.inc:148
+msgid "Interlibrary reservation form"
+msgstr ""

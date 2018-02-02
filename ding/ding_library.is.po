@@ -1,0 +1,351 @@
+# $Id$
+#
+# Danish translation of Drupal (general)
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+# Generated from files:
+#  ding_library.features.field_instance.inc: n/a
+#  ding_library.module: n/a
+#  plugins/content_types/address.inc: n/a
+#  ding_library.views_default.inc: n/a
+#  plugins/content_types/library_list.inc: n/a
+#  ding_library.features.inc: n/a
+#  ding_library.info: n/a
+#  ding_library.install: n/a
+#  plugins/content_types/contact.inc: n/a
+#  plugins/content_types/menu_title.inc: n/a
+#  plugins/access/library_count.inc: n/a
+#  plugins/arguments/slug.inc: n/a
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"POT-Creation-Date: 2017-12-08 17:40+0100\n"
+"PO-Revision-Date: 2018-02-02 10:56+0000\n"
+"Language-Team: Danish <EMAIL@ADDRESS>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 2.0.6\n"
+"Last-Translator: \n"
+"Language: is\n"
+
+#: ding_library.features.field_instance.inc:779 ding_library.module:117
+#: plugins/content_types/address.inc:30
+msgid "Address"
+msgstr "Heimilisfang"
+
+#: ding_library.features.field_instance.inc:780
+msgid "Body"
+msgstr "Meginmál"
+
+#: ding_library.features.field_instance.inc:781
+#: ding_library.views_default.inc:311
+msgid "E-mail"
+msgstr "Netfang"
+
+#: ding_library.features.field_instance.inc:782
+msgid "Fax number"
+msgstr "Faxnúmer"
+
+#: ding_library.features.field_instance.inc:783
+#: ding_library.views_default.inc:321
+msgid "Geocode"
+msgstr "Landsnúmer"
+
+#: ding_library.features.field_instance.inc:784
+msgid ""
+"If enabled, events and news can be marked as related to this library and "
+"will show up on its library page."
+msgstr ""
+"Ef þetta er valið verður hægt að merkja viðburði og fréttir þessu safni, sem "
+"munu þá birtast á síðu þessa safns."
+
+#: ding_library.features.field_instance.inc:785
+msgid "Lead"
+msgstr "Inngangslína"
+
+#: ding_library.features.field_instance.inc:786
+msgid "Links"
+msgstr "Tenglar"
+
+#: ding_library.features.field_instance.inc:787
+msgid "Phone number"
+msgstr "Símanúmer"
+
+#: ding_library.features.field_instance.inc:788
+msgid "Show related content on library page"
+msgstr "Sýna tengt efni á síðu bókasafns"
+
+#: ding_library.features.field_instance.inc:789
+#: plugins/content_types/library_list.inc:137
+msgid "Slug"
+msgstr "Vefslóð (önnur)"
+
+#: ding_library.features.field_instance.inc:790
+msgid "The main contact e-mail address for the library."
+msgstr "Aðalnetfang þessa bókasafns."
+
+#: ding_library.features.field_instance.inc:791
+msgid "Title image"
+msgstr "Titilmynd"
+
+#: ding_library.features.inc:38 ding_library.module:92
+#: plugins/content_types/library_list.inc:16
+msgid "Library"
+msgstr "Bókasafn"
+
+#: ding_library.features.inc:40
+msgid "Add a new library to the site."
+msgstr "Bæta nýju bókasafni við vefinn."
+
+#: ding_library.features.inc:42
+msgid "Navn"
+msgstr "Nafn"
+
+#: ding_library.views_default.inc:301
+msgid "Master"
+msgstr ""
+
+#: ding_library.views_default.inc:302
+msgid "mere"
+msgstr "meira"
+
+#: ding_library.views_default.inc:303
+msgid "Udfør"
+msgstr "Áfram"
+
+#: ding_library.views_default.inc:304
+msgid "Gendan"
+msgstr "Bakka"
+
+#: ding_library.views_default.inc:305
+msgid "Sortér efter"
+msgstr "Raða eftir"
+
+#: ding_library.views_default.inc:306
+msgid "Stigende"
+msgstr "Hækkandi"
+
+#: ding_library.views_default.inc:307
+msgid "Faldende"
+msgstr "Lækkandi"
+
+#: ding_library.views_default.inc:308
+msgid "Adresse"
+msgstr "Heimilisfang"
+
+#: ding_library.views_default.inc:309
+msgid "Phone"
+msgstr "Símanúmer"
+
+#: ding_library.views_default.inc:310
+msgid "Fax"
+msgstr "Fax"
+
+#: ding_library.views_default.inc:312
+msgid "<i class=\"icon-chevron-right\"></i> [title_1]"
+msgstr "[title_1]"
+
+#: ding_library.views_default.inc:313
+msgid "Libraries list"
+msgstr "Listi yfir bókasöfn"
+
+#: ding_library.views_default.inc:314
+msgid "Libraries"
+msgstr "Bókasöfn"
+
+#: ding_library.views_default.inc:315
+msgid "more"
+msgstr "meira"
+
+#: ding_library.views_default.inc:316
+msgid "queue"
+msgstr "röð"
+
+#: ding_library.views_default.inc:317
+msgid "Library panes"
+msgstr "Bókasafnssvæði"
+
+#: ding_library.views_default.inc:318
+msgid "Leaflet Pane"
+msgstr ""
+
+#: ding_library.views_default.inc:319
+msgid ""
+"[title]\n"
+"[field_ding_library_addresse]"
+msgstr ""
+
+#: ding_library.module:84
+msgid "None selected"
+msgstr "Ekkert er valið"
+
+#: ding_library.module:95
+msgid "The library whose address to display."
+msgstr "Bókasafnið sem þetta heimilisfang á við."
+
+#: ding_library.module:170
+msgid "Phone: @phone_number"
+msgstr "Sími: @phone_number"
+
+#: ding_library.module:179
+msgid ""
+"Please select a library to display address information for at the <a href=\"!"
+"link\">block configuration page</a>."
+msgstr ""
+"Veldu bókasafn til að birta heimilisfang þess á <a href=\"!link"
+"\">stillingasíðu blokka</a>."
+
+#: ding_library.module:216
+msgid "Custom alias has been disabled"
+msgstr "Sérstillt slóð hefur verið afvirkjuð"
+
+#: ding_library.module:242
+msgid ""
+"Illeagal charecters detected, only small letters (a-z), numbers (0-9), "
+"dashes (-) and underscores (_) allowed"
+msgstr ""
+"„Ólöglegir“ stafir fundust; aðeins má nota lágstafi (a-z, ekki séríslenska "
+"eða broddstafi), tölur (0-9), bandstrik (-) og undirstrik (_)"
+
+#: ding_library.module:257 ding_library.info:0
+msgid "Ding library"
+msgstr "Ding bókasafn"
+
+#: ding_library.module:258
+msgid "Determine context in panels node."
+msgstr ""
+
+#: ding_library.module:354
+msgid "ding_library"
+msgstr ""
+
+#: ding_library.module:354
+msgid "Unable to create menu position rule for ding library"
+msgstr "Tókst ekki að búa til reglu um birtingu bókasafns í valmynd"
+
+#: ding_library.install:115
+msgid "Updated menu block."
+msgstr "Uppfærð blokk valmyndar."
+
+#: ding_library.install:225
+msgid "Group membership"
+msgstr ""
+
+#: ding_library.info:0
+msgid "Content structure for local libraries."
+msgstr "Uppbygging efnis fyrir síður bókasafna."
+
+#: ding_library.info:0 plugins/content_types/address.inc:10
+#: plugins/content_types/contact.inc:10
+#: plugins/content_types/library_list.inc:13
+#: plugins/content_types/menu_title.inc:9
+msgid "Ding!"
+msgstr "Ding!"
+
+#: plugins/access/library_count.inc:12
+msgid "Library: number of libraries"
+msgstr "Bókasafn: fjöldi bókasafna"
+
+#: plugins/access/library_count.inc:13
+msgid "Control access based on the number of libraries."
+msgstr "Stýra aðgangi út frá fjölda bókasafna."
+
+#: plugins/access/library_count.inc:25
+msgid "Number of libraries"
+msgstr "Fjöldi bókasafna"
+
+#: plugins/access/library_count.inc:27
+msgid "The number of published ding library nodes that should grant access."
+msgstr ""
+
+#: plugins/access/library_count.inc:63
+msgid "Library access count is @count."
+msgstr ""
+
+#: plugins/arguments/slug.inc:8
+msgid "Node: Ding library slug"
+msgstr ""
+
+#: plugins/arguments/slug.inc:10
+msgid "Creates a libray context from the libray slug."
+msgstr ""
+
+#: plugins/content_types/address.inc:4
+msgid "Ding library address info"
+msgstr "Ding bókasafn, heimilisfang"
+
+#: plugins/content_types/address.inc:5
+msgid "Display library address info"
+msgstr "Birta upplýsingar um heimilisfang"
+
+#: plugins/content_types/address.inc:7 plugins/content_types/contact.inc:7
+msgid "Node"
+msgstr "Nóða"
+
+#: plugins/content_types/contact.inc:4
+msgid "Ding library contact info"
+msgstr "Ding bókasafn, kontakt upplýsingar"
+
+#: plugins/content_types/contact.inc:5
+msgid "Display lbirary contact info"
+msgstr "Birta kontakt upplýsingar bókasafns"
+
+#: plugins/content_types/contact.inc:29
+msgid "Phone:"
+msgstr "Sími:"
+
+#: plugins/content_types/contact.inc:36
+msgid "Fax:"
+msgstr "Fax:"
+
+#: plugins/content_types/contact.inc:44
+msgid "Email:"
+msgstr "Netfang:"
+
+#: plugins/content_types/contact.inc:51
+msgid "Contact"
+msgstr "Tengiliður"
+
+#: plugins/content_types/library_list.inc:8
+msgid "Ding library selection dropdown"
+msgstr "Fellilisti yfir bókasöfn"
+
+#: plugins/content_types/library_list.inc:9
+msgid "Display a selection dropdown with available libraries."
+msgstr "Birta fellilista yfir viðkomandi bókasöfn."
+
+#: plugins/content_types/library_list.inc:15
+msgid "Taxonomy term id"
+msgstr "Auðkenni flokkunarhugtaks"
+
+#: plugins/content_types/library_list.inc:62;64
+msgid "All libraries"
+msgstr "Öll bókasöfn"
+
+#: plugins/content_types/library_list.inc:91
+msgid "Select library"
+msgstr "Velja bókasafn"
+
+#: plugins/content_types/library_list.inc:130
+msgid "Hide default"
+msgstr "Fela sjálfgefið"
+
+#: plugins/content_types/library_list.inc:131
+msgid "Should the drop-down hide the \"All libraries\" option."
+msgstr "Ef fela á valkostinn „Öll bókasöfn“ í fellilistanum."
+
+#: plugins/content_types/library_list.inc:138
+msgid ""
+"The slug could be \"arrangementer\" or \"nyheder\" and will be inserted "
+"based on the context."
+msgstr ""
+
+#: plugins/content_types/menu_title.inc:4
+msgid "Menu title"
+msgstr "Titill í valmynd"
+
+#: plugins/content_types/menu_title.inc:5
+msgid "The title of the currently active menu item."
+msgstr "Titill þess sem er valið í valmynd þessa stundina."

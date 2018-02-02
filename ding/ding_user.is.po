@@ -12,7 +12,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "POT-Creation-Date: 2017-12-08 17:31+0100\n"
-"PO-Revision-Date: 2017-12-08 16:31+0000\n"
+"PO-Revision-Date: 2018-02-02 12:21+0000\n"
 "Last-Translator: NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Icelandic <EMAIL@ADDRESS>\n"
 "MIME-Version: 1.0\n"
@@ -20,27 +20,27 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n!=1);\n"
 "Language: is\n"
-"X-Generator: Poedit 2.0.5\n"
+"X-Generator: Poedit 2.0.6\n"
 
 #: ding_user.admin.inc:13
 msgid "Link"
-msgstr "Hlekkur"
+msgstr "Tengill"
 
 #: ding_user.admin.inc:15
 msgid "The link is used in the text next to the log-in form"
-msgstr ""
+msgstr "Tengillinn er settur inn í textann við hliðina á innskráningar-forminu"
 
 #: ding_user.admin.inc:26
 msgid "Not a valid URL."
-msgstr ""
+msgstr "Ógild vefslóð."
 
 #: ding_user.pages.inc:38
 msgid "Username"
-msgstr "Notendanafn"
+msgstr "Notandanafn"
 
 #: ding_user.pages.inc:44
 msgid "Enter your @s username."
-msgstr "Sláðu inn notandanafn þitt hjá @s ."
+msgstr "Sláðu inn kennitöluna þína eða GE-númer."
 
 #: ding_user.pages.inc:47
 msgid "Password"
@@ -48,7 +48,7 @@ msgstr "Lykilorð"
 
 #: ding_user.pages.inc:48
 msgid "Enter the password that accompanies your username."
-msgstr "Sláði inn lykilorðið sem fylgir notandanum þínum."
+msgstr "Sláðu inn pin-númerið þitt (4-8 stafir)"
 
 #: ding_user.pages.inc:57
 msgid "Log in"
@@ -56,11 +56,11 @@ msgstr "Skrá  inn"
 
 #: ding_user.pages.inc:71
 msgid "Internal error, please try again later."
-msgstr ""
+msgstr "Innri villa, vinsamlegast reyndu aftur síðar."
 
 #: ding_user.pages.inc:93
 msgid "Sorry, authentication failed, did you type the right username and password?"
-msgstr ""
+msgstr "Innskráning mistókst, skráðir þú rétt notandanafn og lykilorð?"
 
 #: ding_user.pages.inc:70 ding_user.module:529;750;888
 msgid "ding_user"
@@ -76,59 +76,59 @@ msgstr "notandi"
 
 #: ding_user.pages.inc:94
 msgid "Authentication attempt failed for %uid."
-msgstr ""
+msgstr "Sannprófun fyrir %uid tókst ekki."
 
 #: ding_user.module:109
 msgid "Administer user settings"
-msgstr ""
+msgstr "Breyta stillingum notenda"
 
 #: ding_user.module:128
 msgid "My account"
-msgstr "Aðgangurinn minn"
+msgstr "Mínar síður"
 
 #: ding_user.module:129
 msgid "User profile"
-msgstr ""
+msgstr "Lýsing á notanda"
 
 #: ding_user.module:130
 msgid "User status"
-msgstr ""
+msgstr "Staða notanda"
 
 #: ding_user.module:182
 msgid "User lists"
-msgstr ""
+msgstr "Listar notanda"
 
 #: ding_user.module:257
 msgid "Loan/social security number (without dash)"
-msgstr ""
+msgstr "Kennitala eða GE-númer"
 
 #: ding_user.module:259
 msgid "Pincode (4 digits)"
-msgstr ""
+msgstr "Pin-númer (4-8 stafir)"
 
 #: ding_user.module:282
 msgid "If you want to see what you have borrowed, reserve books or edit your user profile, you must be logged in."
-msgstr ""
+msgstr "Þú þarft að skrá þig inn til að sjá útlánin þín, panta gögn eða breyta stillingum."
 
 #: ding_user.module:293
 msgid "If you are not a registered user, you can register !link, or you can sign up in person at your local library."
-msgstr ""
+msgstr "Ef þú ert ekki skráður notandi á Borgarbókasafni getur þú skráð þig á næsta safni Borgarbókasafns."
 
 #: ding_user.module:294
 msgid "here"
-msgstr ""
+msgstr "hér"
 
 #: ding_user.module:300
 msgid "If you are not a registered user, you can sign up in person at your local library."
-msgstr ""
+msgstr "Ef þú ert ekki skráður notandi á Borgarbókasafni getur þú skráð þig á næsta safni Borgarbókasafns."
 
 #: ding_user.module:320
 msgid "Register as a user"
-msgstr ""
+msgstr "Skrá mig sem notanda"
 
 #: ding_user.module:335
 msgid "Login with"
-msgstr ""
+msgstr "Skrá inn með"
 
 #: ding_user.module:383
 msgid "Provider user settings"
@@ -136,75 +136,75 @@ msgstr ""
 
 #: ding_user.module:390
 msgid "Pin code length"
-msgstr ""
+msgstr "Lengd pin-númers"
 
 #: ding_user.module:392;393;394
 msgid "Max @number chars"
-msgstr ""
+msgstr "Hámarksfjöldi stafabila"
 
 #: ding_user.module:402
 msgid "Link to blocked page"
-msgstr ""
+msgstr "Tengill á síðu fyrir frysta notendur"
 
 #: ding_user.module:404
 msgid "Link to the node containing explanation about the library's blocked user policies."
-msgstr ""
+msgstr "Tengill á síðu sem útskýrir hvers vegna sumir notendur kunna að vera frystir."
 
 #: ding_user.module:410
 msgid "Fee for SMS"
-msgstr ""
+msgstr "Gjald fyrir SMS"
 
 #: ding_user.module:411
 msgid "Notice that there is a fee for receiving a SMS"
-msgstr ""
+msgstr "Athugaðu að mögulega er tekið gjald fyrir að senda SMS"
 
 #: ding_user.module:412
 msgid "Description to show user if a fee for SMS is defined."
-msgstr ""
+msgstr "Útskýring sem birtist notanda ef gjald er tekið fyrir SMS."
 
 #: ding_user.module:431
 msgid "The pincode must consist of exactly %number digits."
-msgstr ""
+msgstr "Pin-númerið verður að vera nákvæmlega %number stafabil."
 
 #: ding_user.module:451
 msgid "Change pincode"
-msgstr ""
+msgstr "Breyta pin-númeri"
 
 #: ding_user.module:456
 msgid "Confirm old pincode"
-msgstr ""
+msgstr "Staðfesta gamalt pin-númer"
 
 #: ding_user.module:472
 msgid "To change the current pincode, enter the new pincode in both fields."
-msgstr ""
+msgstr "Til að setja nýtt pin númer: sláðu nýtt pin-númer í báða reitina."
 
 #: ding_user.module:507
 msgid "Pincode"
-msgstr ""
+msgstr "Pin-númer"
 
 #: ding_user.module:508
 msgid "Confirm pincode"
-msgstr ""
+msgstr "Staðfesta pin-númer"
 
 #: ding_user.module:522
 msgid "The old pincode confirm is empty."
-msgstr ""
+msgstr "Svæðið fyrir gamla pin-númerið er tómt."
 
 #: ding_user.module:530
 msgid "There was an error checking the old pincode. Please try again later."
-msgstr ""
+msgstr "Upp kom villa við afstemmingu á gömlu pin-númeri. Vinsamlegast reyndu aftur."
 
 #: ding_user.module:535
 msgid "The old pincode confirm does not match."
-msgstr ""
+msgstr "Gamla pin-númerið stemmir ekki."
 
 #: ding_user.module:567
 msgid "There was a problem communicating with library system. Please contact the site administrator."
-msgstr ""
+msgstr "Upp kom villa í samskiptum við bókasafnskerfi. Hafðu samband við vefstjórn ef þessi villa birtist ítrekað."
 
 #: ding_user.module:569
 msgid "New pincode not saved."
-msgstr ""
+msgstr "Nýtt pin-númer var ekki vistað."
 
 #: ding_user.module:798
 msgid "!name field is required."
@@ -212,7 +212,7 @@ msgstr "Nauðsynlegt er að fylla út !name reitinn."
 
 #: ding_user.module:804
 msgid "Sorry, unrecognized username or password. Please contact your local library to request a new password. Contact information can be found on the <a href=\"@url\">library</a> page."
-msgstr ""
+msgstr "Rangt notandanafn eða pin-númer. Hafðu samband við bókasafnið til að endurstilla pin-númerið: <a href=\"@url\">Söfn og bílar</a>."
 
 #: ding_user.module:889
 msgid "Error saving user account."
@@ -220,44 +220,44 @@ msgstr "Villa kom upp við að vista notanda."
 
 #: ding_user.module:974;1044;82
 msgid "Authenticate"
-msgstr ""
+msgstr "Sannprófa"
 
 #: ding_user.module:978
 msgid "Login"
-msgstr ""
+msgstr "Skrá inn"
 
 #: ding_user.module:1032
 msgid "Authenticated"
-msgstr ""
+msgstr "Sannreynt"
 
 #: ding_user.module:1032
 msgid "Authenticated, refreshing page."
-msgstr ""
+msgstr "Sannreynt, hleð síðu."
 
 #: ding_user.module:1260
 msgid "Roles field is required."
-msgstr ""
+msgstr "Stilla þarf heimildir."
 
 #: ding_user.module:888
 msgid "User account could not be created for: %name."
-msgstr ""
+msgstr "Tókst ekki að búa til notanda fyrir: %name."
 
 #: ding_user.module:92
 msgid "Ding user settings"
-msgstr ""
+msgstr "Ding stillingar notanda"
 
 #: ding_user.module:93
 msgid "Administer user settings."
-msgstr ""
+msgstr "Breyta stillingum notenda"
 
 #: ding_user.info:0
 msgid "Ding user"
-msgstr ""
+msgstr "Ding notandanafn"
 
 #: ding_user.info:0
 msgid "Handles authentication against user provider and other user related stuff."
-msgstr ""
+msgstr "Sér um sannprófun gagnvart bókasafnskerfi og annað sem hefur að gera með notendur."
 
 #: ding_user.info:0
 msgid "Ding!"
-msgstr ""
+msgstr "Ding!"

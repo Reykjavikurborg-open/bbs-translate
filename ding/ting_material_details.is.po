@@ -1,0 +1,290 @@
+# $Id$
+#
+# Danish translation of Drupal (general)
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+# Generated from files:
+#  ting_material_details.features.field_instance.inc: n/a
+#  ting_material_details.field.inc: n/a
+#  ting_material_details.info: n/a
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"POT-Creation-Date: 2017-12-07 12:37+0100\n"
+"PO-Revision-Date: 2018-02-01 14:24+0000\n"
+"Language-Team: Danish <EMAIL@ADDRESS>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 2.0.6\n"
+"Last-Translator: \n"
+"Language: is\n"
+
+#: ting_material_details.features.field_instance.inc:2152
+msgid "Age"
+msgstr "Aldur"
+
+#: ting_material_details.features.field_instance.inc:2153
+msgid "Audience"
+msgstr "Markhópur"
+
+#: ting_material_details.features.field_instance.inc:2154
+msgid "Available in"
+msgstr "Aðgengilegt í"
+
+#: ting_material_details.features.field_instance.inc:2155
+msgid "Classification"
+msgstr "Flokkun"
+
+#: ting_material_details.features.field_instance.inc:2156
+msgid "Contains"
+msgstr "Inniheldur"
+
+#: ting_material_details.features.field_instance.inc:2157
+msgid "Contributor"
+msgstr "Höfundar/meðhöfundar"
+
+#: ting_material_details.features.field_instance.inc:2158
+msgid "Description"
+msgstr "Lýsing"
+
+#: ting_material_details.features.field_instance.inc:2159
+msgid "Extent"
+msgstr "Umfang"
+
+#: ting_material_details.features.field_instance.inc:2160
+msgid "Format"
+msgstr "Snið"
+
+#: ting_material_details.features.field_instance.inc:2161
+msgid "Genre"
+msgstr "Tegund"
+
+#: ting_material_details.features.field_instance.inc:2162
+msgid "Host publication"
+msgstr "Útgáfuaðili"
+
+#: ting_material_details.features.field_instance.inc:2163
+msgid "ISBN no."
+msgstr "ISBN nr."
+
+#: ting_material_details.features.field_instance.inc:2164
+msgid "Language"
+msgstr "Tungumál"
+
+#: ting_material_details.features.field_instance.inc:2165
+msgid "Later title"
+msgstr "Seinni titill"
+
+#: ting_material_details.features.field_instance.inc:2166
+msgid "Musician"
+msgstr "Tónlistarmaður"
+
+#: ting_material_details.features.field_instance.inc:2167
+msgid "Original title"
+msgstr "Upphaflegur titill"
+
+#: ting_material_details.features.field_instance.inc:2168
+msgid "Pegi mark"
+msgstr "Aldurstakmarkanir tölvuleiks"
+
+#: ting_material_details.features.field_instance.inc:2169
+msgid "Previous title"
+msgstr "Fyrri titill"
+
+#: ting_material_details.features.field_instance.inc:2170
+msgid "Publisher"
+msgstr "Útgefandi"
+
+#: ting_material_details.features.field_instance.inc:2171
+msgid "Referenced by"
+msgstr "Vitnað til af"
+
+#: ting_material_details.features.field_instance.inc:2172
+msgid "Rights"
+msgstr "Réttindi"
+
+#: ting_material_details.features.field_instance.inc:2173
+msgid "Spatial"
+msgstr "Staður"
+
+#: ting_material_details.features.field_instance.inc:2174
+msgid "Speech"
+msgstr "Talmál"
+
+#: ting_material_details.features.field_instance.inc:2175
+msgid "Subject"
+msgstr "Efnisorð"
+
+#: ting_material_details.features.field_instance.inc:2176
+msgid "Subtitle"
+msgstr "Textar"
+
+#: ting_material_details.features.field_instance.inc:2177
+msgid "Type"
+msgstr "Gerð"
+
+#: ting_material_details.features.field_instance.inc:2178
+msgid "Version"
+msgstr "Útgáfa"
+
+#: ting_material_details.field.inc:14;15
+msgid "Material type"
+msgstr "Tegund efnis"
+
+#: ting_material_details.field.inc:25;26
+msgid "Material format"
+msgstr "Snið efnis"
+
+#: ting_material_details.field.inc:36;37
+msgid "Material available in"
+msgstr "Efni aðgengilegt í"
+
+#: ting_material_details.field.inc:47;48
+msgid "Material language"
+msgstr "Tungumál efnis"
+
+#: ting_material_details.field.inc:58;59
+msgid "Material spoken language"
+msgstr "Talmál efnis"
+
+#: ting_material_details.field.inc:69;70
+msgid "Material subtitles"
+msgstr "Textar efnis"
+
+#: ting_material_details.field.inc:80;81
+msgid "Material genre"
+msgstr "Tegund efnis"
+
+#: ting_material_details.field.inc:91;92
+msgid "Material subject"
+msgstr "Efnisorð efnis"
+
+#: ting_material_details.field.inc:102;103
+msgid "Material classification"
+msgstr "Flokkun efnis"
+
+#: ting_material_details.field.inc:113;114
+msgid "Material spatial"
+msgstr "Staðsetning efnis"
+
+#: ting_material_details.field.inc:124;125
+msgid "Material contributor"
+msgstr "Höfundur/meðhöfundur efnis"
+
+#: ting_material_details.field.inc:135;136
+msgid "Material musician"
+msgstr "Tónlistarmaður efnis"
+
+#: ting_material_details.field.inc:146;147
+msgid "Material tracks"
+msgstr "Lagalisti efnis"
+
+#: ting_material_details.field.inc:157;158
+msgid "Material referenced by"
+msgstr "Vitnað til efnis af"
+
+#: ting_material_details.field.inc:168;169
+msgid "Material description"
+msgstr "Lýsing efnis"
+
+#: ting_material_details.field.inc:179;180
+msgid "Material series description"
+msgstr "Lýsing á seríu efnis"
+
+#: ting_material_details.field.inc:190;191
+msgid "Material original title"
+msgstr "Upphaflegur titill efnis"
+
+#: ting_material_details.field.inc:201;202
+msgid "Material previous title"
+msgstr "Fyrri titill efnis"
+
+#: ting_material_details.field.inc:212;213
+msgid "Material later title"
+msgstr "Seinni titill efnis"
+
+#: ting_material_details.field.inc:223;224
+msgid "Material ISBN no."
+msgstr "ISBN nr. efnis"
+
+#: ting_material_details.field.inc:234;235
+msgid "Material URI"
+msgstr ""
+
+#: ting_material_details.field.inc:245;246
+msgid "Material version"
+msgstr ""
+
+#: ting_material_details.field.inc:256;257
+msgid "Material extent"
+msgstr ""
+
+#: ting_material_details.field.inc:267;268
+msgid "Material publisher"
+msgstr ""
+
+#: ting_material_details.field.inc:278;279
+msgid "Material rights"
+msgstr ""
+
+#: ting_material_details.field.inc:289;290
+msgid "Material audience"
+msgstr ""
+
+#: ting_material_details.field.inc:300;301
+msgid "Material age"
+msgstr "Aldurstakmarkanir efnis"
+
+#: ting_material_details.field.inc:311;312
+msgid "Material PEGI-mark"
+msgstr "Aldurstakmarkanir tölvuleiks"
+
+#: ting_material_details.field.inc:333
+msgid "Default"
+msgstr "Sjálfgefið"
+
+#: ting_material_details.field.inc:366
+msgid "Creator search link"
+msgstr ""
+
+#: ting_material_details.field.inc:373
+msgid "Subject search link"
+msgstr ""
+
+#: ting_material_details.field.inc:380
+msgid "Series search link"
+msgstr ""
+
+#: ting_material_details.field.inc:387
+msgid "Part of manifestation search link"
+msgstr ""
+
+#: ting_material_details.field.inc:394
+msgid "Search link"
+msgstr "Tengill á leit"
+
+#: ting_material_details.field.inc:443
+msgid "Search index"
+msgstr "Atriðaskrá leitar"
+
+#: ting_material_details.field.inc:448
+msgid "OpenSearch index to search in."
+msgstr ""
+
+#: ting_material_details.field.inc:463
+msgid "Linked to search in @index index."
+msgstr ""
+
+#: ting_material_details.info:0
+msgid "Ting material details"
+msgstr "Upplýsingar um gagnið"
+
+#: ting_material_details.info:0
+msgid "collection of fields holding material details (type,format language etc)"
+msgstr "safn svæða sem geyma upplýsingar um efnið (tegund, snið, tungumál o.s.frv.)"
+
+#: ting_material_details.info:0
+msgid "Ding!"
+msgstr "Ding!"

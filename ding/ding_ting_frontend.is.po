@@ -1,0 +1,143 @@
+# $Id$
+#
+# Danish translation of Drupal (general)
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+# Generated from files:
+#  ding_ting_frontend.features.field_instance.inc: n/a
+#  ding_ting_frontend.local_config.admin.inc: n/a
+#  ding_ting_frontend.module: n/a
+#  ding_ting_frontend.info: n/a
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"POT-Creation-Date: 2017-12-08 17:33+0100\n"
+"PO-Revision-Date: 2018-02-01 15:05+0000\n"
+"Language-Team: Danish <EMAIL@ADDRESS>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 2.0.6\n"
+"Last-Translator: \n"
+"Language: is\n"
+
+#: ding_ting_frontend.features.field_instance.inc:1172
+msgid "Action buttons"
+msgstr "Aðgerðahnappar"
+
+#: ding_ting_frontend.features.field_instance.inc:1173
+msgid "All materials"
+msgstr "Öll gögn"
+
+#: ding_ting_frontend.features.field_instance.inc:1174
+msgid "Cover"
+msgstr "Kápa"
+
+#: ding_ting_frontend.features.field_instance.inc:1175
+msgid "Holdings information"
+msgstr "Hillustaða"
+
+#: ding_ting_frontend.features.field_instance.inc:1176
+msgid "Issues"
+msgstr "Tölublöð"
+
+#: ding_ting_frontend.features.field_instance.inc:1177
+msgid "On this site"
+msgstr "Á þessum vef"
+
+#: ding_ting_frontend.features.field_instance.inc:1178
+msgid "Series"
+msgstr "Sería"
+
+#: ding_ting_frontend.features.field_instance.inc:1179
+msgid "Subjects"
+msgstr "Efnisorð"
+
+#: ding_ting_frontend.features.field_instance.inc:1180
+msgid "Ting collection object types"
+msgstr "Ting tegundir gagna"
+
+#: ding_ting_frontend.features.field_instance.inc:1181
+msgid "Ting collection primary object"
+msgstr "Gagn"
+
+#: ding_ting_frontend.features.field_instance.inc:1182
+msgid "Ting object abstract"
+msgstr "Lýsing á efni"
+
+#: ding_ting_frontend.features.field_instance.inc:1183
+msgid "Ting object author"
+msgstr "Höfundur"
+
+#: ding_ting_frontend.features.field_instance.inc:1184
+msgid "Ting object title"
+msgstr "Titill efnis"
+
+#: ding_ting_frontend.features.field_instance.inc:1185
+msgid "Ting object type"
+msgstr "Tegund efnis"
+
+#: ding_ting_frontend.features.field_instance.inc:1186
+msgid "Ting relations."
+msgstr "Tengt efni."
+
+#: ding_ting_frontend.local_config.admin.inc:14
+msgid "Ting Object settings"
+msgstr ""
+
+#: ding_ting_frontend.local_config.admin.inc:15
+msgid "Modifications to ting objects when they are being displayed"
+msgstr ""
+
+#: ding_ting_frontend.local_config.admin.inc:22
+msgid "Group holdings available"
+msgstr ""
+
+#: ding_ting_frontend.local_config.admin.inc:24
+msgid "Default (don't change)"
+msgstr ""
+
+#: ding_ting_frontend.local_config.admin.inc:25
+msgid "Open"
+msgstr "Opna"
+
+#: ding_ting_frontend.local_config.admin.inc:26
+msgid "Collapsed"
+msgstr "Fellt saman"
+
+#: ding_ting_frontend.local_config.admin.inc:27
+msgid "Collapsible"
+msgstr "Hægt að fella saman"
+
+#: ding_ting_frontend.module:15
+msgid "Local settings"
+msgstr "Staðbundnar stillingar"
+
+#: ding_ting_frontend.module:39
+msgid "Primary collection object"
+msgstr ""
+
+#: ding_ting_frontend.module:43
+msgid "Collection listing"
+msgstr ""
+
+#: ding_ting_frontend.module:47
+msgid "Search result"
+msgstr "Niðurstaða leitar"
+
+#: ding_ting_frontend.module:16
+msgid "Configure local stuff that normally aren't available for local configuration"
+msgstr ""
+
+#: ding_ting_frontend.info:0
+msgid "Ding Ting frontend"
+msgstr ""
+
+#: ding_ting_frontend.info:0
+msgid "Frontend module for Ding Ting"
+msgstr ""
+
+#: ding_ting_frontend.info:0
+msgid "Ding!"
+msgstr "Ding!"

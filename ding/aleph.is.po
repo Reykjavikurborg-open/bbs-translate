@@ -1,0 +1,122 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2017-12-08 18:02+0100\n"
+"PO-Revision-Date: 2018-02-01 13:32+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: is\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.6\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: aleph.features.field_instance.inc:77
+msgid "Interest period"
+msgstr "Gildistími pöntunar"
+
+#: aleph.features.field_instance.inc:78
+msgid "Preferred branch"
+msgstr "Veldu bókasafn"
+
+#: aleph.module:102
+msgid "Aleph service settings"
+msgstr ""
+
+#: aleph.module:108
+msgid "Aleph base URL"
+msgstr "Grunnslóð Aleph"
+
+#: aleph.module:109
+msgid "Base URL for Aleph service."
+msgstr "Grunnslóð fyrir Aleph þjónustu."
+
+#: aleph.module:116
+msgid "Aleph REST base URL"
+msgstr "Aleph REST grunnslóð"
+
+#: aleph.module:117
+msgid "Base URL for Aleph REST service."
+msgstr "Grunnslóð fyrir REST Aleph þjónustu."
+
+#: aleph.module:124
+msgid "Aleph Main Library"
+msgstr "Aleph aðalsafn"
+
+#: aleph.module:125
+msgid "The main library. ICE01 for example."
+msgstr "Aðalbókasafnseining. ICE53 til dæmis."
+
+#: aleph.module:132
+msgid "Enable reservation deletion"
+msgstr "Heimila eyðingu pantana"
+
+#: aleph.module:135
+msgid "Allow users to delete their reservations."
+msgstr "Heimila notendum að eyða sínum eigin pöntunum."
+
+#: aleph.module:140
+msgid "Enable logging"
+msgstr "Virkja gagnagrunnsskráningu (logging)"
+
+#: aleph.module:142
+msgid ""
+"Logs requests to the Aleph webservice. Sensitive information such as CPR "
+"number and PIN code is stripped from the requests."
+msgstr ""
+"Skráir beiðnir til Aleph vefþjónustunnar. Persónuupplýsingar á borð við "
+"kennitölu og pin-númer eru ekki vistaðar."
+
+#: aleph.module:182 includes/aleph.reservation.inc:212
+msgid "aleph"
+msgstr "aleph"
+
+#: aleph.module:182
+msgid "Constructor error: “@message”"
+msgstr ""
+
+#: aleph.module:51
+msgid "1 month"
+msgid_plural "@count months"
+msgstr[0] "1 mánuður"
+msgstr[1] "@count måneder"
+
+#: (duplicate) aleph.install:19
+msgid ""
+"The Aleph module requires SimpleXML to function. Please install and/or "
+"enable SimpleXML in your PHP configuration."
+msgstr ""
+
+#: (duplicate) aleph.install:26 aleph.info:0
+msgid "Aleph"
+msgstr "Aleph"
+
+#: (duplicate) aleph.install:27
+msgid "Aleph configured"
+msgstr "Aleph stillt"
+
+#: (duplicate) aleph.install:31
+msgid "Aleph not configured"
+msgstr "Aleph ekki stillt"
+
+#: (duplicate) aleph.install:32
+msgid ""
+"Aleph is not properly configured, please visit <a href=\"@link\">the "
+"settings page</a>."
+msgstr ""
+"Aleph er ekki rétt stillt, vinsamlegast heimsækið <a href=\"@link"
+"\">stillingasíðuna</a>."
+
+#: aleph.info:0
+msgid "Implementation of Aleph API."
+msgstr ""
+
+#: aleph.info:0
+msgid "Providers"
+msgstr "Vefþjónar"
+
+#: includes/aleph.reservation.inc:212
+msgid "Unknown reservation type (%type) requested"
+msgstr "Send beiðni um óþekkta tegund pöntunar (%type)"

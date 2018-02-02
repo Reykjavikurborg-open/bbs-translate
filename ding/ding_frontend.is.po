@@ -20,7 +20,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "POT-Creation-Date: 2017-12-08 17:42+0100\n"
-"PO-Revision-Date: 2017-12-08 16:43+0000\n"
+"PO-Revision-Date: 2018-02-02 10:55+0000\n"
 "Last-Translator: NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Icelandic <EMAIL@ADDRESS>\n"
 "MIME-Version: 1.0\n"
@@ -28,11 +28,11 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n!=1);\n"
 "Language: is\n"
-"X-Generator: Poedit 2.0.5\n"
+"X-Generator: Poedit 2.0.6\n"
 
 #: ding_frontend.admin.inc:13
 msgid "News"
-msgstr ""
+msgstr "Fréttir"
 
 #: ding_frontend.admin.inc:14
 msgid "Event"
@@ -40,11 +40,11 @@ msgstr "Viðburður"
 
 #: ding_frontend.admin.inc:28
 msgid "Promote types to Frontpage"
-msgstr ""
+msgstr "Flytja gerðir á forsíðu"
 
 #: ding_frontend.admin.inc:32
 msgid "Please specify types which can be promoted to Frontpage."
-msgstr ""
+msgstr "Velja gerðir til að flytja á forsíðu."
 
 #: ding_frontend.admin.inc:37
 msgid "Save configuration"
@@ -56,11 +56,11 @@ msgstr ""
 
 #: ding_frontend.features.menu_custom.inc:22
 msgid "Topbar menu"
-msgstr ""
+msgstr "Valmynd"
 
 #: ding_frontend.features.menu_links.inc:135
 msgid "Login"
-msgstr ""
+msgstr "Skrá inn"
 
 #: ding_frontend.features.menu_links.inc:136
 msgid "Logout"
@@ -80,7 +80,7 @@ msgstr "Leit"
 
 #: ding_frontend.features.menu_links.inc:140
 msgid "User menu (mobile)"
-msgstr ""
+msgstr "Útskrá"
 
 #: ding_frontend.views_default.inc:80;173;323
 msgid "Master"
@@ -104,31 +104,31 @@ msgstr "Raða eftir"
 
 #: ding_frontend.views_default.inc:85;179;328
 msgid "Asc"
-msgstr ""
+msgstr "Hækkandi"
 
 #: ding_frontend.views_default.inc:86;180;329
 msgid "Desc"
-msgstr ""
+msgstr "Lækkandi"
 
 #: ding_frontend.views_default.inc:87;182;330
 msgid "Items per page"
-msgstr ""
+msgstr "Fjöldi á síðu"
 
 #: ding_frontend.views_default.inc:88;183;331
 msgid "- All -"
-msgstr ""
+msgstr "- Allt -"
 
 #: ding_frontend.views_default.inc:89;184;332
 msgid "Offset"
-msgstr ""
+msgstr "Klippa"
 
 #: ding_frontend.views_default.inc:90;185;333
 msgid "« first"
-msgstr "« fremsta"
+msgstr "« fyrsta"
 
 #: ding_frontend.views_default.inc:91;186;334
 msgid "‹ previous"
-msgstr "‹ fyrri"
+msgstr "‹ fyrra"
 
 #: ding_frontend.views_default.inc:92;187;335
 msgid "next ›"
@@ -136,35 +136,35 @@ msgstr "næsta ›"
 
 #: ding_frontend.views_default.inc:93;188;336
 msgid "last »"
-msgstr "aftasta »"
+msgstr "síðasta »"
 
 #: ding_frontend.views_default.inc:94;189;337
 msgid "All"
-msgstr ""
+msgstr "Allir"
 
 #: ding_frontend.views_default.inc:95;190
 msgid "Content pane"
-msgstr ""
+msgstr "Innihald"
 
 #: ding_frontend.views_default.inc:96;192;339
 msgid "View panes"
-msgstr ""
+msgstr "Sjá svæði"
 
 #: ding_frontend.views_default.inc:174
 msgid "Ding node search"
-msgstr ""
+msgstr "Ding leit að nóðu"
 
 #: ding_frontend.views_default.inc:175
 msgid "mere"
-msgstr ""
+msgstr "meira"
 
 #: ding_frontend.views_default.inc:181
 msgid "No results found"
-msgstr ""
+msgstr "Leitin skilaði engum niðurstöðum"
 
 #: ding_frontend.views_default.inc:338
 msgid "News & Events"
-msgstr ""
+msgstr "Fréttir og viðburðir"
 
 #: ding_frontend.module:15
 msgid "Administer promoting to frontpage"
@@ -272,15 +272,15 @@ msgstr "Hlutverk"
 
 #: plugins/content_types/taxonomy_menu.inc:12
 msgid "Ding taxonomy menu"
-msgstr ""
+msgstr "Valmynd Ding flokkunarhugtaka"
 
 #: plugins/content_types/taxonomy_menu.inc:13
 msgid "Generates links based on a taxonomy."
-msgstr ""
+msgstr "Býr til tengla út frá flokkunarhugtökum."
 
 #: plugins/content_types/taxonomy_menu.inc:19
 msgid "Taxonomy term id"
-msgstr ""
+msgstr "Auðkenni flokkunarhugtaks"
 
 #: plugins/content_types/taxonomy_menu.inc:20
 msgid "Group"
@@ -296,7 +296,7 @@ msgstr "Sýna"
 
 #: plugins/content_types/taxonomy_menu.inc:175
 msgid "Slug"
-msgstr ""
+msgstr "Vefslóð (önnur)"
 
 #: plugins/content_types/taxonomy_menu.inc:176
 msgid "The slug could be \"arrangementer\" or \"nyheder\" and will be inserted based on the context."
@@ -328,15 +328,15 @@ msgstr ""
 
 #: plugins/content_types/taxonomy_menu.inc:212
 msgid "Vocabulary"
-msgstr "Orðaforði"
+msgstr "Orðalisti"
 
 #: plugins/content_types/taxonomy_menu.inc:213
 msgid "Select the vocabulary to use."
-msgstr ""
+msgstr "Veldu orðalista."
 
 #: plugins/content_types/taxonomy_menu.inc:234
 msgid "\"@context\" menu"
-msgstr ""
+msgstr "\"@context\" valmynd"
 
 #: plugins/layouts/frontpage/ding_layout_1/ding_layout_1.inc:3
 msgid "Ding frontpage layout 1"
@@ -357,52 +357,52 @@ msgstr ""
 #: plugins/layouts/frontpage/ding_layout_1/ding_layout_1.inc:12
 #: plugins/layouts/single_row/25_50_25/25_50_25.inc:12
 msgid "Attachment 1 of 4"
-msgstr ""
+msgstr "Viðhengi 1 af 4"
 
 #: plugins/layouts/frontpage/ding_layout_1/ding_layout_1.inc:13
 #: plugins/layouts/single_row/25_50_25/25_50_25.inc:13
 msgid "Attachment 2 of 4"
-msgstr ""
+msgstr "Viðhengi 2 af 4"
 
 #: plugins/layouts/frontpage/ding_layout_1/ding_layout_1.inc:14
 #: plugins/layouts/single_row/25_50_25/25_50_25.inc:14
 msgid "Attachment 3 of 4"
-msgstr ""
+msgstr "Viðhengi 3 af 4"
 
 #: plugins/layouts/frontpage/ding_layout_1/ding_layout_1.inc:15
 #: plugins/layouts/single_row/25_50_25/25_50_25.inc:15
 msgid "Attachment 4 of 4"
-msgstr ""
+msgstr "Viðhengi 4 af 4"
 
 #: plugins/layouts/frontpage/ding_layout_1/ding_layout_1.inc:16
 #: plugins/layouts/single_row/25_50_25/25_50_25.inc:16
 msgid "Attachment 1 of 3"
-msgstr ""
+msgstr "Viðhengi 1 af 3"
 
 #: plugins/layouts/frontpage/ding_layout_1/ding_layout_1.inc:17
 #: plugins/layouts/single_row/25_50_25/25_50_25.inc:17
 msgid "Attachment 2 of 3"
-msgstr ""
+msgstr "Viðhengi 2 af 3"
 
 #: plugins/layouts/frontpage/ding_layout_1/ding_layout_1.inc:18
 #: plugins/layouts/single_row/25_50_25/25_50_25.inc:18
 msgid "Attachment 3 of 3"
-msgstr ""
+msgstr "Viðhengi 3 af 3"
 
 #: plugins/layouts/frontpage/ding_layout_1/ding_layout_1.inc:19
 #: plugins/layouts/single_row/25_50_25/25_50_25.inc:19
 msgid "Attachment 1 of 2"
-msgstr ""
+msgstr "Viðhengi 1 af 2"
 
 #: plugins/layouts/frontpage/ding_layout_1/ding_layout_1.inc:20
 #: plugins/layouts/single_row/25_50_25/25_50_25.inc:20
 msgid "Attachment 2 of 2"
-msgstr ""
+msgstr "Viðhengi 2 af 2"
 
 #: plugins/layouts/frontpage/ding_layout_1/ding_layout_1.inc:21
 #: plugins/layouts/single_row/25_50_25/25_50_25.inc:21
 msgid "Attachment 1 of 1"
-msgstr ""
+msgstr "Viðhengi 1 af 1"
 
 #: plugins/layouts/single_row/25_50_25/25_50_25.inc:3
 msgid "Two sidebars, content in middle"

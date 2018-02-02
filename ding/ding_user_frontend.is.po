@@ -1,0 +1,167 @@
+# $Id$
+#
+# Danish translation of Drupal (general)
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+# Generated from files:
+#  ding_user_frontend.module: n/a
+#  ding_user_frontend.install: n/a
+#  ding_user_frontend.info: n/a
+#  plugins/content_types/current_user_name.inc: n/a
+#  plugins/content_types/user_menu.inc: n/a
+#  plugins/content_types/user_overview.inc: n/a
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"POT-Creation-Date: 2017-12-08 17:27+0100\n"
+"PO-Revision-Date: 2018-02-02 12:22+0000\n"
+"Language-Team: Danish <EMAIL@ADDRESS>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 2.0.6\n"
+"Last-Translator: \n"
+"Language: is\n"
+
+#: ding_user_frontend.module:66
+msgid "Ding user name"
+msgstr "Ding notandanafn"
+
+#: ding_user_frontend.module:71
+msgid "Ding loan, reservation, and debt count"
+msgstr "Ding lán, pantanir og sektastaða"
+
+#: ding_user_frontend.module:76
+msgid "Ding ajax login button"
+msgstr "Ding ajax innskráningarhnappur"
+
+#: ding_user_frontend.module:199
+msgid "You do not currently have any loans, reservations or debts."
+msgstr "Þú átt engin útlán, pantanir né sektir í augnablikinu."
+
+#: ding_user_frontend.module:203
+msgid "Your user loan status"
+msgstr "Staða útlána"
+
+#: ding_user_frontend.module:349
+msgid "Log out"
+msgstr "Útskrá"
+
+#: ding_user_frontend.module:145
+msgid "Debt"
+msgid_plural "Debts"
+msgstr[0] "Sekt"
+msgstr[1] "Sektir"
+
+#: ding_user_frontend.module:159
+msgid "Reservation ready for pick-up"
+msgid_plural "Reservations ready for pick-up"
+msgstr[0] "Pöntun tilbúin til afhendingar"
+msgstr[1] "Pantanir tilbúnar til afhendingar"
+
+#: ding_user_frontend.module:173
+msgid "Loan"
+msgid_plural "Loans"
+msgstr[0] "Útlán"
+msgstr[1] "Útlán"
+
+#: ding_user_frontend.module:191
+msgid "Reservation"
+msgid_plural "Reservations"
+msgstr[0] "Pöntun"
+msgstr[1] "Pantanir"
+
+#: ding_user_frontend.install:27
+msgid "deleted field_period_of_interest and field_reservation_pause from user"
+msgstr ""
+
+#: ding_user_frontend.info:0
+msgid "Ding user frontend"
+msgstr ""
+
+#: ding_user_frontend.info:0
+msgid "Configuration and panels for user profile and blocks"
+msgstr ""
+
+#: ding_user_frontend.info:0
+msgid "Ding!"
+msgstr "Ding!"
+
+#: plugins/content_types/current_user_name.inc:8
+msgid "Current user name."
+msgstr ""
+
+#: plugins/content_types/current_user_name.inc:9
+msgid "The current user name."
+msgstr ""
+
+#: plugins/content_types/current_user_name.inc:11
+#: plugins/content_types/user_menu.inc:15;16
+#: plugins/content_types/user_overview.inc:12;13
+msgid "User"
+msgstr "Notandi"
+
+#: plugins/content_types/current_user_name.inc:21
+msgid "Logged in user"
+msgstr "Innskráður notandi"
+
+#: plugins/content_types/user_menu.inc:9
+msgid "User sub-menu"
+msgstr "Undirvalmynd notanda"
+
+#: plugins/content_types/user_menu.inc:10
+msgid "The current users sub-menu"
+msgstr "Undirvalmynd núverandi notanda"
+
+#: plugins/content_types/user_menu.inc:35
+msgid "My account"
+msgstr "Mínar síður"
+
+#: plugins/content_types/user_menu.inc:47
+msgid "Path"
+msgstr "Slóð"
+
+#: plugins/content_types/user_menu.inc:48
+msgid "The path to generate the menu based on. Defaults to current path."
+msgstr ""
+
+#: plugins/content_types/user_menu.inc:54
+msgid "Replacement patterns"
+msgstr ""
+
+#: plugins/content_types/user_menu.inc:58
+msgid "Prefer raw-text replacements for text to avoid problems with HTML entities!"
+msgstr ""
+
+#: plugins/content_types/user_overview.inc:8
+msgid "User overview"
+msgstr "Yfirlit yfir notendur"
+
+#: plugins/content_types/user_overview.inc:9
+msgid "The current users overview."
+msgstr "Yfirlit yfir núverandi notendur."
+
+#: plugins/content_types/user_overview.inc:26
+msgid "Library user status"
+msgstr "Staða á safninu"
+
+#: plugins/content_types/user_overview.inc:50
+msgid "Fines"
+msgstr "Sektir"
+
+#: plugins/content_types/user_overview.inc:67
+msgid "Loans overdue"
+msgstr "Útlán í vanskilum"
+
+#: plugins/content_types/user_overview.inc:80
+msgid "Reservations ready for pick-up"
+msgstr "Pantanir tilbúnar til afhendingar"
+
+#: plugins/content_types/user_overview.inc:92
+msgid "Reservations"
+msgstr "Pantanir"
+
+#: plugins/content_types/user_overview.inc:101
+msgid "Loans"
+msgstr "Útlán"

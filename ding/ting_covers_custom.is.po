@@ -1,0 +1,132 @@
+# $Id$
+#
+# Danish translation of Drupal (general)
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+# Generated from files:
+#  ting_covers_custom.features.field_instance.inc: n/a
+#  ting_covers_custom.views_default.inc: n/a
+#  ting_covers_custom.module: n/a
+#  ting_covers_custom.info: n/a
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"POT-Creation-Date: 2017-12-08 17:23+0100\n"
+"PO-Revision-Date: 2018-02-02 10:52+0000\n"
+"Language-Team: Danish <EMAIL@ADDRESS>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 2.0.6\n"
+"Last-Translator: \n"
+"Language: is\n"
+
+#: ting_covers_custom.features.field_instance.inc:123
+msgid "Cover image"
+msgstr "Kápumynd"
+
+#: ting_covers_custom.features.field_instance.inc:124
+#: ting_covers_custom.views_default.inc:185
+msgid "Object"
+msgstr "Hlutur"
+
+#: ting_covers_custom.views_default.inc:169
+msgid "Master"
+msgstr ""
+
+#: ting_covers_custom.views_default.inc:170 ting_covers_custom.module:47
+msgid "Custom covers"
+msgstr "Nýjar kápumyndir"
+
+#: ting_covers_custom.views_default.inc:171
+msgid "mere"
+msgstr "meira"
+
+#: ting_covers_custom.views_default.inc:172
+msgid "Udfør"
+msgstr "Áfram"
+
+#: ting_covers_custom.views_default.inc:173
+msgid "Gendan"
+msgstr "Bakka"
+
+#: ting_covers_custom.views_default.inc:174
+msgid "Sortér efter"
+msgstr "Raða eftir"
+
+#: ting_covers_custom.views_default.inc:175
+msgid "Stigende"
+msgstr "Hækkandi"
+
+#: ting_covers_custom.views_default.inc:176
+msgid "Faldende"
+msgstr "Lækkandi"
+
+#: ting_covers_custom.views_default.inc:177
+msgid "Antal elementer"
+msgstr "Fjöldi staka"
+
+#: ting_covers_custom.views_default.inc:178
+msgid "- Alle -"
+msgstr "- Allt -"
+
+#: ting_covers_custom.views_default.inc:179
+msgid "Forskydning"
+msgstr "Klippa"
+
+#: ting_covers_custom.views_default.inc:180
+msgid "« første"
+msgstr "« fyrsta"
+
+#: ting_covers_custom.views_default.inc:181
+msgid "‹ forrige"
+msgstr "‹ fyrra"
+
+#: ting_covers_custom.views_default.inc:182
+msgid "næste ›"
+msgstr "næsta ›"
+
+#: ting_covers_custom.views_default.inc:183
+msgid "sidste »"
+msgstr "síðasta »"
+
+#: ting_covers_custom.views_default.inc:184
+msgid "Bruger"
+msgstr "Notandi"
+
+#: ting_covers_custom.views_default.inc:186
+msgid "Cover"
+msgstr "Kápumynd"
+
+#: ting_covers_custom.views_default.inc:187
+msgid "Ændret"
+msgstr "Breytt"
+
+#: ting_covers_custom.views_default.inc:188
+msgid "Handlinger"
+msgstr "Aðgerðir"
+
+#: ting_covers_custom.views_default.inc:189
+msgid "[edit_link] [delete_link]"
+msgstr ""
+
+#: ting_covers_custom.views_default.inc:190
+msgid "Admin list"
+msgstr ""
+
+#: ting_covers_custom.module:61;68
+msgid "Add new cover"
+msgstr "Setja inn nýja kápumynd"
+
+#: ting_covers_custom.info:0
+msgid "Ting Covers: Custom"
+msgstr "Ting kápur: sérstilla"
+
+#: ting_covers_custom.info:0
+msgid "Allow users to upload custom covers for objects."
+msgstr "Leyfir notendum að hlaða inn nýjum kápumyndum fyrir efni."
+
+#: ting_covers_custom.info:0
+msgid "Ding!"
+msgstr "Ding!"

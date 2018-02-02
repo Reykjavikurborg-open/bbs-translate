@@ -14,7 +14,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "POT-Creation-Date: 2017-12-08 17:43+0100\n"
-"PO-Revision-Date: 2017-12-08 16:44+0000\n"
+"PO-Revision-Date: 2018-02-01 11:26+0000\n"
 "Last-Translator: NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Icelandic <EMAIL@ADDRESS>\n"
 "MIME-Version: 1.0\n"
@@ -22,7 +22,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n!=1);\n"
 "Language: is\n"
-"X-Generator: Poedit 2.0.5\n"
+"X-Generator: Poedit 2.0.6\n"
 
 #: ding_facetbrowser.admin.inc:19
 msgid "Configure facets shown in the facetbrowser. Facet names can be found at <a href=\"http://oss.dbc.dk/wiki/bin/view/Databroend/OpenSearchDocIndexes\">DBC wiki</a> and is usually named <em>facet.something</em>."
@@ -62,19 +62,19 @@ msgstr ""
 
 #: ding_facetbrowser.admin.inc:67 ding_facetbrowser.module:222
 msgid "Alphabetic"
-msgstr ""
+msgstr "Í stafrófsröð"
 
 #: ding_facetbrowser.admin.inc:68 ding_facetbrowser.module:223
 msgid "Alphabetic (reverse)"
-msgstr ""
+msgstr "Í öfugri stafrófsröð"
 
 #: ding_facetbrowser.admin.inc:69 ding_facetbrowser.module:224
 msgid "Numeric"
-msgstr ""
+msgstr "Í réttri númeraröð"
 
 #: ding_facetbrowser.admin.inc:70 ding_facetbrowser.module:225
 msgid "Numeric (reverse)"
-msgstr ""
+msgstr "Í öfugri númeraröð"
 
 #: ding_facetbrowser.admin.inc:77;114;171
 msgid "Weight"
@@ -170,15 +170,15 @@ msgstr ""
 
 #: js/ding_facetbrowser.js:0;0
 msgid "Show more"
-msgstr ""
+msgstr "Sýna meira"
 
 #: js/ding_facetbrowser.js:0
 msgid "Remove all selected"
-msgstr ""
+msgstr "Fjarlægja valið"
 
 #: js/ding_facetbrowser.js:0
 msgid "Show less"
-msgstr ""
+msgstr "Sýna minna"
 
 #: plugins/content_types/ding_facetbrowser/ding_facetbrowser.inc:4;53
 msgid "Ding Facetbrowser"

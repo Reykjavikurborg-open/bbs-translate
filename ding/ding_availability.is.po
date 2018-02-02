@@ -1,0 +1,190 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2017-12-08 17:58+0100\n"
+"PO-Revision-Date: 2018-02-01 13:25+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: is\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.6\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ding_availability.admin.inc:20
+msgid "Update from datawell"
+msgstr "Uppfæra úr gagnagrunni"
+
+#: ding_availability.admin.inc:21
+msgid ""
+"Update the lists of known types and sources by asking the datawell for all "
+"types and sorces."
+msgstr "Uppfæra lista af óþekktum gerðum og uppruna um gagnagrunn."
+
+#: ding_availability.admin.inc:26
+msgid "Update"
+msgstr "Uppfæra"
+
+#: ding_availability.admin.inc:35
+msgid "Holdings information"
+msgstr "Hillustaða"
+
+#: ding_availability.admin.inc:37
+msgid ""
+"Which ting object types should display provider holdings information in the "
+"holding field e.g. on the ting object view"
+msgstr ""
+
+#: ding_availability.admin.inc:42
+msgid "Types"
+msgstr "Gerðir"
+
+#: ding_availability.field.inc:14;15
+msgid "Availability information."
+msgstr "Tiltækar upplýsingar."
+
+#: ding_availability.field.inc:24;25
+msgid "Holdings information."
+msgstr "Hillustaða."
+
+#: ding_availability.field.inc:63
+msgid "Default"
+msgstr "Sjálfgefið"
+
+#: ding_availability.field.inc:70
+msgid "With availability information"
+msgstr "Með hillustöðu"
+
+#: ding_availability.field.inc:76
+msgid "Availability information with labels"
+msgstr "Hillustaða með merkjum"
+
+#: ding_availability.field.inc:131
+msgid "Fetching holdings information."
+msgstr "Sæki hillustöðu."
+
+#: ding_availability.field.inc:233
+msgid "Online"
+msgstr "Á vefnum"
+
+#: ding_availability.field.inc:254
+msgid "Pending availability"
+msgstr "Sæki hillustöðu"
+
+#: ding_availability.module:179
+msgid "Placement"
+msgstr "Staðsetning"
+
+#: ding_availability.module:180
+msgid "Copies"
+msgstr "Eintök"
+
+#: ding_availability.module:181
+msgid "At home"
+msgstr "Í hillu"
+
+#: ding_availability.module:194
+msgid "In acquisition"
+msgstr "Í innkaupum"
+
+#: ding_availability.module:248
+msgid "The waiting time is currently: <strong>@wait</strong>."
+msgstr "Biðtíminn er sirka <strong>@wait</strong>."
+
+#: ding_availability.module:287
+msgid "available"
+msgstr "í hillu"
+
+#: ding_availability.module:290
+msgid "on loan"
+msgstr "í útláni"
+
+#: ding_availability.module:293
+msgid "not reservable"
+msgstr "ekki hægt að panta"
+
+#: ding_availability.module:296
+msgid "unavailable"
+msgstr "ekki til útláns"
+
+#: ding_availability.module:309;322
+msgid "Ding availability legend"
+msgstr "Ding merking eintakastöðu"
+
+#: ding_availability.module:338 js/ding_availability_labels.js:0
+msgid "Available"
+msgstr "Í hillu"
+
+#: ding_availability.module:339
+msgid "On loan"
+msgstr "Í útláni"
+
+#: ding_availability.module:340
+msgid "Unavailable"
+msgstr "Ekki til útláns"
+
+#: ding_availability.module:341
+msgid "Not reservable"
+msgstr "Ekki hægt að panta"
+
+#: ding_availability.module:17
+msgid "Availability status"
+msgstr "Staðsetning eintaks"
+
+#: ding_availability.module:24
+msgid "Availability and holding status"
+msgstr "Staðsetning og frátektir"
+
+#: ding_availability.module:31
+msgid "Provider availability holdings"
+msgstr ""
+
+#: ding_availability.module:32
+msgid ""
+"Configure which ting object types should try to fetch provider holdings "
+"information."
+msgstr ""
+
+#: ding_availability.info:0
+msgid "Ding availability"
+msgstr ""
+
+#: ding_availability.info:0
+msgid "Availability information for Ding objects."
+msgstr ""
+
+#: ding_availability.info:0
+msgid "Ding!"
+msgstr "Ding!"
+
+#: js/ding_availability_labels.js:0
+msgid "Reservable"
+msgstr "Hægt að panta"
+
+#: js/ding_availability_labels.js:0
+msgid "Not available"
+msgstr "Ekki tiltækt"
+
+#: js/ding_availability_labels.js:0
+msgid "Can be obtained"
+msgstr "Hægt að nálgast"
+
+#: templates/ding-holdings.tpl.php:14
+msgid "There is 1 user in queue to loan the material."
+msgid_plural "There are @count users in queue to loan the material."
+msgstr[0] "Það er 1 pöntun á þessu gagni."
+msgstr[1] "Það eru @count pantanir á þessu gagni."
+
+#: templates/ding-holdings.tpl.php:17
+msgid "1 copy in acquisition."
+msgid_plural "@count copies are in acquisition."
+msgstr[0] "1 eintak í innkaupum."
+msgstr[1] "@count eintök í innkaupum."
+
+#: templates/ding-holdings.tpl.php:19
+msgid "We have 1 copy."
+msgid_plural "We have @count copies."
+msgstr[0] "Við eigum 1 eintak."
+msgstr[1] "Við eigum @count eintök."

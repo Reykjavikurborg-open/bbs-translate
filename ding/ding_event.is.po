@@ -1,0 +1,497 @@
+# $Id$
+#
+# Danish translation of Drupal (general)
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+# Generated from files:
+#  ding_event.admin.inc: n/a
+#  ding_event.views_default.inc: n/a
+#  ding_event.features.field_instance.inc: n/a
+#  ding_event.features.inc: n/a
+#  ding_event.module: n/a
+#  ding_event.views.inc: n/a
+#  ding_event.info: n/a
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"POT-Creation-Date: 2017-12-08 17:45+0100\n"
+"PO-Revision-Date: 2018-02-02 10:49+0000\n"
+"Language-Team: Danish <EMAIL@ADDRESS>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 2.0.6\n"
+"Last-Translator: \n"
+"Language: is\n"
+
+#: ding_event.admin.inc:22
+msgid "Currency"
+msgstr "Gjaldmiðill"
+
+#: ding_event.admin.inc:25
+msgid "Select which currency to use on events"
+msgstr "Velja gjaldmiðil fyrir viðburði"
+
+#: ding_event.admin.inc:30
+msgid "Frontpage"
+msgstr "Forsíða"
+
+#: ding_event.admin.inc:34
+msgid "Events in frontpage list"
+msgstr "Viðburðir á forsíðu listi"
+
+#: ding_event.admin.inc:44
+msgid "Only promoted events"
+msgstr "Aðeins auglýstir viðburðir"
+
+#: ding_event.admin.inc:50 ding_event.views_default.inc:1484
+msgid "Event list"
+msgstr "Viðburðalisti"
+
+#: ding_event.admin.inc:55
+msgid "Number of events"
+msgstr "Fjöldi viðburða"
+
+#: ding_event.admin.inc:56
+msgid "Choose how many events items you want on each page in the event list"
+msgstr "Veldu fjölda viðburðatákna fyrir hverja síðu á viðburðalista"
+
+#: ding_event.admin.inc:70
+msgid "Group events by date"
+msgstr "Hópviðburðir eftir dagsetningu"
+
+#: ding_event.admin.inc:71
+msgid "Group events by date instead of month"
+msgstr "Hópviðburðir eftir dagsetningu frekar en mánuði"
+
+#: ding_event.features.field_instance.inc:1112
+msgid ""
+"An external link to a site where the user can sign up for the event or buy "
+"tickets to the event. The link is printet out as a button. If the event has "
+"a price the text on the button will be \"Bestil billet(ter)\" - if not, the "
+"text will be \"Deltag i arrangementet\". If Place2book is used, this field "
+"should not be used."
+msgstr ""
+"Ytri tengill á síðu þar sem notandinn getur skráð sig á viðburði eða keypt "
+"miða á viðburði. Hlekkurinn er prentaður út eins og hnappur. Kosti á "
+"viðburð er texti á hnappi \"Pantið miða\" - ef ekki er textinn \"Takið þátt "
+"í viðburði\". Ef Place2book er notið, ætti ekki að nota þetta svæði."
+
+#: ding_event.features.field_instance.inc:1113
+msgid "Body"
+msgstr "Meginmál"
+
+#: ding_event.features.field_instance.inc:1114
+msgid "Book ticket/Participate in event"
+msgstr "Panta miða / Taka þátt í viðburði"
+
+#: ding_event.features.field_instance.inc:1115
+msgid "Category"
+msgstr "Efnisflokkur"
+
+#: ding_event.features.field_instance.inc:1116
+msgid "Date"
+msgstr "Dagsetning"
+
+#: ding_event.features.field_instance.inc:1117
+msgid "Display this event in the selected group (temapage)."
+msgstr "Sýna viðburð í hópnum (þemasíða)."
+
+#: ding_event.features.field_instance.inc:1118
+msgid ""
+"Events show the value \"Gratis\", if the field is set to 0. If there's "
+"multiple ticket types, you can set the value as lowest - highest price in "
+"the field, like \"30 - 50\""
+msgstr " "
+
+#: ding_event.features.field_instance.inc:1119
+msgid "Files"
+msgstr "Skrár"
+
+#: ding_event.features.field_instance.inc:1120
+msgid "Groups"
+msgstr "Hópar"
+
+#: ding_event.features.field_instance.inc:1121
+msgid "Lead"
+msgstr "Aðal"
+
+#: ding_event.features.field_instance.inc:1122
+msgid "Library"
+msgstr "Bókasafn"
+
+#: ding_event.features.field_instance.inc:1123
+msgid "List image"
+msgstr "Lista mynd"
+
+#: ding_event.features.field_instance.inc:1124
+msgid "Location"
+msgstr "Staðsetning"
+
+#: ding_event.features.field_instance.inc:1125
+msgid "Materials"
+msgstr "Efni"
+
+#: ding_event.features.field_instance.inc:1126
+msgid ""
+"Optional. If provided, the location address will be shown instead of the "
+"address of the associated library when presenting info on the event."
+msgstr ""
+"Valkvætt. Ef heimilisfang er skráð hér verður það notað í stað "
+"heimilisfangs bókasafnsins sem tengist viðburðinum í upplýsingum um hann."
+
+#: ding_event.features.field_instance.inc:1127
+msgid "Price"
+msgstr "Verð"
+
+#: ding_event.features.field_instance.inc:1128
+msgid "Select the libraries this content should be associated with."
+msgstr "Veldu þau bókasöfn sem þú vilt tengja þetta efni við."
+
+#: ding_event.features.field_instance.inc:1129
+msgid "Tags"
+msgstr "Merki"
+
+#: ding_event.features.field_instance.inc:1130
+msgid "Target"
+msgstr "Merki"
+
+#: ding_event.features.field_instance.inc:1131
+msgid "Title image"
+msgstr "Titilmynd"
+
+#: ding_event.features.inc:35 ding_event.module:16
+msgid "Event"
+msgstr "Viðburður"
+
+#: ding_event.features.inc:37
+msgid "A content type for events concerning libraries."
+msgstr "Efnistýpa fyrir viðburði á bókasöfnum."
+
+#: ding_event.features.inc:39
+msgid "Titel"
+msgstr "Titill"
+
+#: ding_event.features.inc:40
+msgid ""
+"This is the heading usually displayed with a big font size (h1) on the top "
+"of the page."
+msgstr "Þessi fyrirsögn er yfirleitt sýnd með leturstærð (h1) efst á síðu."
+
+#: ding_event.views.inc:13
+msgid "Ding event date"
+msgstr "Dagsetning Ding viðburðar"
+
+#: ding_event.views.inc:14
+msgid "Date range when the event is active."
+msgstr "Tímabil viðburðar."
+
+#: ding_event.views_default.inc:1461
+msgid "Master"
+msgstr ""
+
+#: ding_event.views_default.inc:1462 ding_event.module:229
+msgid "See all events"
+msgstr "Sjá alla viðburði"
+
+#: ding_event.views_default.inc:1463
+msgid "Indsend"
+msgstr "Senda"
+
+#: ding_event.views_default.inc:1464
+msgid "Gendan"
+msgstr "Bakka"
+
+#: ding_event.views_default.inc:1465
+msgid "Sortér efter"
+msgstr "Raða eftir"
+
+#: ding_event.views_default.inc:1466
+msgid "Stigende"
+msgstr "Hækkandi"
+
+#: ding_event.views_default.inc:1467
+msgid "Faldende"
+msgstr "Lækkandi"
+
+#: ding_event.views_default.inc:1468
+msgid "Empty text"
+msgstr "Texti fyrir engar niðurstöður"
+
+#: ding_event.views_default.inc:1469
+msgid "No events where found."
+msgstr "Engir viðburðir fundust."
+
+#: ding_event.views_default.inc:1470
+msgid "OG membership from node"
+msgstr ""
+
+#: ding_event.views_default.inc:1471
+msgid ""
+"<div class=\"event-list-date-wrapper\">\n"
+"  <span class=\"event-list-day\">[field_ding_event_date]</span>\n"
+"  <div class=\"event-list-inner-wrapper\">\n"
+"    <span class=\"event-list-date\">[field_ding_event_date_1]</span>\n"
+"    <span class=\"event-list-month\">[field_ding_event_date_2]</span>\n"
+"  </div>\n"
+"</div>"
+msgstr ""
+
+#: ding_event.views_default.inc:1478
+msgid ""
+"<div class=\"event-list-info\">\n"
+"  <span class=\"event-list-location\">[field_ding_event_location]</span>\n"
+"  <span class=\"event-list-time\">[field_ding_event_date_3]</span>\n"
+"  <span class=\"event-list-price\">[field_ding_event_price]</span>\n"
+"</div>"
+msgstr ""
+
+#: ding_event.views_default.inc:1483
+msgid "Alle"
+msgstr "Allir"
+
+#: ding_event.views_default.inc:1485
+msgid "more"
+msgstr "meira"
+
+#: ding_event.views_default.inc:1486
+msgid "Search"
+msgstr "Leita"
+
+#: ding_event.views_default.inc:1487
+msgid "Alle arrangementer"
+msgstr "Allir viðburðir"
+
+#: ding_event.views_default.inc:1488
+msgid "Number of elements"
+msgstr "Fjöldi staka"
+
+#: ding_event.views_default.inc:1489
+msgid "- Alle -"
+msgstr "- Allir -"
+
+#: ding_event.views_default.inc:1490
+msgid "Forskydning"
+msgstr "Tilfærsla"
+
+#: ding_event.views_default.inc:1491
+msgid "« First"
+msgstr "« fyrsta"
+
+#: ding_event.views_default.inc:1492
+msgid "‹ previous"
+msgstr "‹ fyrra"
+
+#: ding_event.views_default.inc:1493
+msgid "Next ›"
+msgstr "næsta ›"
+
+#: ding_event.views_default.inc:1494
+msgid "Last »"
+msgstr "síðasta »"
+
+#: ding_event.views_default.inc:1495
+msgid "OG node group"
+msgstr ""
+
+#: ding_event.views_default.inc:1496
+msgid "term from field_ding_event_category"
+msgstr ""
+
+#: ding_event.views_default.inc:1497
+msgid "term from field_ding_event_tags"
+msgstr ""
+
+#: ding_event.views_default.inc:1498
+msgid "term from field_ding_event_target"
+msgstr ""
+
+#: ding_event.views_default.inc:1499
+msgid "From"
+msgstr "Frá"
+
+#: ding_event.views_default.inc:1500
+msgid "To"
+msgstr "Til"
+
+#: ding_event.views_default.inc:1501
+msgid "Event panes"
+msgstr "Viðburðastika"
+
+#: ding_event.views_default.inc:1502
+msgid "Event list (frontpage)"
+msgstr "Viðburðalisti (forsíða)"
+
+#: ding_event.views_default.inc:1503
+msgid "Events"
+msgstr "Viðburðir"
+
+#: ding_event.views_default.inc:1504
+msgid "Library event list"
+msgstr "Bókasafn viðburðalisti"
+
+#: ding_event.views_default.inc:1505
+msgid "All"
+msgstr "Allt"
+
+#: ding_event.views_default.inc:1506
+msgid "Library panes"
+msgstr "Bókasafnsstika"
+
+#: ding_event.views_default.inc:1507
+msgid "Event list (library)"
+msgstr "Viðburðalisti (bókasafn)"
+
+#: ding_event.views_default.inc:1508
+msgid "Groups event list"
+msgstr "Hópar viðburðalisti"
+
+#: ding_event.views_default.inc:1509
+msgid "Group events"
+msgstr "Hópar viðburðir"
+
+#: ding_event.views_default.inc:1510
+msgid "OG membership group"
+msgstr ""
+
+#: ding_event.views_default.inc:1511
+msgid "OG group"
+msgstr "OG hópur"
+
+#: ding_event.views_default.inc:1512
+msgid "OG membership from node (Library)"
+msgstr ""
+
+#: ding_event.views_default.inc:1513
+msgid "OG Library"
+msgstr "OG bókasafn"
+
+#: ding_event.views_default.inc:1514
+msgid "Groups panes"
+msgstr ""
+
+#: ding_event.views_default.inc:1515
+msgid "Event list (groups)"
+msgstr "Viðburðalisti (groups)"
+
+#: ding_event.views_default.inc:1516
+msgid "« first"
+msgstr "« fyrsta"
+
+#: ding_event.views_default.inc:1517
+msgid "next ›"
+msgstr "næsta ›"
+
+#: ding_event.views_default.inc:1518
+msgid "last »"
+msgstr "síðasta »"
+
+#: ding_event.views_default.inc:1519
+msgid "No events where found in the group."
+msgstr "Engir viðburðir fundust fyrir þennan hóp."
+
+#: ding_event.views_default.inc:1520
+msgid "RSS library event list"
+msgstr "RSS Bókasafn viðburðalisti"
+
+#: ding_event.views_default.inc:1521
+msgid "Simple event list"
+msgstr "Einfaldur viðburðalisti"
+
+#: ding_event.views_default.inc:1522
+msgid "RSS event list"
+msgstr "RSS viðburðalisti"
+
+#: ding_event.views_default.inc:1523
+msgid "Event Image Crop list"
+msgstr "Listi yfir klipptar viðburðamyndir"
+
+#: ding_event.views_default.inc:1524
+msgid "Event Image Crop Overview"
+msgstr "Yfirlit yfir klipptar viðburðamyndir"
+
+#: ding_event.views_default.inc:1525
+msgid "Items per page"
+msgstr "Fjöldi atriða á síðu"
+
+#: ding_event.views_default.inc:1526
+msgid "- All -"
+msgstr "- Allir -"
+
+#: ding_event.views_default.inc:1527
+msgid "Offset"
+msgstr "Klippa"
+
+#: ding_event.views_default.inc:1528
+msgid "Rediger"
+msgstr "Breyta"
+
+#: ding_event.views_default.inc:1529
+msgid "Original Image"
+msgstr "Upprunaleg mynd"
+
+#: ding_event.views_default.inc:1530
+msgid "Cropped Image"
+msgstr "Breytt mynd"
+
+#: ding_event.module:43
+msgid "Date and time on seperate lines"
+msgstr "Dagsetning og tímasetning hvor á sinni línu"
+
+#: ding_event.module:97
+msgid "Time:"
+msgstr "Tími:"
+
+#: ding_event.module:99
+msgid "Date:"
+msgstr "Dagsetning:"
+
+#: ding_event.module:242
+msgid "Administer event settings"
+msgstr "Viðburðastillingar vefstjóra"
+
+#: ding_event.module:278
+msgid "Search for an event"
+msgstr "Leita að viðburði"
+
+#: ding_event.module:297
+msgid "Select a date"
+msgstr "Velja dagsetningu"
+
+#: ding_event.module:311
+msgctxt "Price"
+msgid "free"
+msgstr "ókeypis"
+
+#: ding_event.module:179
+msgid "ding_event"
+msgstr "ding_event"
+
+#: ding_event.module:179
+msgid "Unable to create menu position rule for ding event"
+msgstr "Tókst ekki að búa til reglu um birtingu viðburðar í valmynd"
+
+#: ding_event.module:17
+msgid "Manage event settings."
+msgstr "Breyta viðburðastillingum."
+
+#: ding_event.module:27
+msgid "Ding event settings"
+msgstr "Ding viðburðastillingar"
+
+#: ding_event.module:28
+msgid "Administer event settings."
+msgstr "Viðburðastillingar vefstjóra."
+
+#: ding_event.info:0
+msgid "Ding event"
+msgstr "Ding viðburður"
+
+#: ding_event.info:0
+msgid "Defines event content type and related views"
+msgstr ""
+
+#: ding_event.info:0
+msgid "Ding!"
+msgstr "Ding!"

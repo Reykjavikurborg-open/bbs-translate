@@ -1,0 +1,214 @@
+# $Id$
+#
+# Danish translation of Drupal (general)
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+# Generated from files:
+#  ding_content.views_default.inc: n/a
+#  ding_content.info: n/a
+#  ding_content.module: n/a
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"POT-Creation-Date: 2017-12-08 17:56+0100\n"
+"PO-Revision-Date: 2018-02-01 11:33+0000\n"
+"Language-Team: Danish <EMAIL@ADDRESS>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 2.0.6\n"
+"Last-Translator: \n"
+"Language: is\n"
+
+#: ding_content.views_default.inc:516
+msgid "Defaults"
+msgstr "Sjálfgildi"
+
+#: ding_content.views_default.inc:517
+msgid "All Recent Content"
+msgstr "Allt nýlegt efni"
+
+#: ding_content.views_default.inc:518
+msgid "view all"
+msgstr "sjá allt"
+
+#: ding_content.views_default.inc:519;642
+msgid "Apply"
+msgstr "Virkja"
+
+#: ding_content.views_default.inc:520;643
+msgid "Reset"
+msgstr "Endurstilla"
+
+#: ding_content.views_default.inc:521;644
+msgid "Sort by"
+msgstr "Flokka eftir"
+
+#: ding_content.views_default.inc:522;645
+msgid "Asc"
+msgstr "Hækkandi"
+
+#: ding_content.views_default.inc:523;646
+msgid "Desc"
+msgstr "Lækkandi"
+
+#: ding_content.views_default.inc:524;647
+msgid "Items per page"
+msgstr "Atriði á síðu"
+
+#: ding_content.views_default.inc:525;648
+msgid "- All -"
+msgstr "- Allt -"
+
+#: ding_content.views_default.inc:526;649
+msgid "Offset"
+msgstr "Klippa"
+
+#: ding_content.views_default.inc:527;650
+msgid "« first"
+msgstr "« fyrsta"
+
+#: ding_content.views_default.inc:528;651
+msgid "‹ previous"
+msgstr "‹ fyrra"
+
+#: ding_content.views_default.inc:529;652
+msgid "next ›"
+msgstr "næsta ›"
+
+#: ding_content.views_default.inc:530;653
+msgid "last »"
+msgstr "síðasta »"
+
+#: ding_content.views_default.inc:531
+msgid "There is no content available for you to edit."
+msgstr "Ekkert efni tiltækt fyrir breytingar."
+
+#: ding_content.views_default.inc:532
+msgid "author"
+msgstr "höfundur"
+
+#: ding_content.views_default.inc:533
+msgid "Library"
+msgstr "Bókasafn"
+
+#: ding_content.views_default.inc:534
+msgid "Profile"
+msgstr "Lýsing"
+
+#: ding_content.views_default.inc:535
+msgid "Title"
+msgstr "Titill"
+
+#: ding_content.views_default.inc:536
+msgid "Type"
+msgstr "Gerð"
+
+#: ding_content.views_default.inc:537
+msgid "Event date"
+msgstr "Dagsetning viðburðar"
+
+#: ding_content.views_default.inc:538
+msgid "Author"
+msgstr "Höfundur"
+
+#: ding_content.views_default.inc:539
+msgid "[field_ding_staff_forename] [field_ding_staff_surname]"
+msgstr ""
+
+#: ding_content.views_default.inc:540
+msgid "[name]"
+msgstr "[name]"
+
+#: ding_content.views_default.inc:541
+msgid "Published"
+msgstr "Birt"
+
+#: ding_content.views_default.inc:542
+msgid "Last updated"
+msgstr "Síðast uppfært"
+
+#: ding_content.views_default.inc:543
+msgid "Language"
+msgstr "Tungumál"
+
+#: ding_content.views_default.inc:544
+msgid "Actions"
+msgstr "Skipanir"
+
+#: ding_content.views_default.inc:545
+msgid "edit"
+msgstr "breyta"
+
+#: ding_content.views_default.inc:546
+msgid "Author: Forename"
+msgstr "Höfundur: Fornafn"
+
+#: ding_content.views_default.inc:547
+msgid "Forename (field_ding_staff_forename)"
+msgstr "Fornafn (field_ding_staff_forename)"
+
+#: ding_content.views_default.inc:548
+msgid "Author: Surname"
+msgstr "Höfundur: Eftirnafn"
+
+#: ding_content.views_default.inc:549
+msgid "Content list"
+msgstr "Efnisyfirlit"
+
+#: ding_content.views_default.inc:550;641
+msgid "more"
+msgstr "meira"
+
+#: ding_content.views_default.inc:551 ding_content.info:0
+msgid "Ding!"
+msgstr "Ding!"
+
+#: ding_content.views_default.inc:552
+msgid "Summary"
+msgstr "Samantekt"
+
+#: ding_content.views_default.inc:640
+msgid "Master"
+msgstr ""
+
+#: ding_content.views_default.inc:654
+msgid "%1: [type]"
+msgstr ""
+
+#: ding_content.views_default.inc:655
+msgid "All"
+msgstr "Allt"
+
+#: ding_content.views_default.inc:656
+msgid "Tags"
+msgstr "Merki"
+
+#: ding_content.views_default.inc:657
+msgid "Nodes based on tag"
+msgstr "Nóður út frá merkjum"
+
+#: ding_content.views_default.inc:658
+msgid "Taxonomy term"
+msgstr "Flokkunarhugtak"
+
+#: ding_content.module:58
+msgid "Personal library"
+msgstr "Mitt safn"
+
+#: ding_content.module:17
+msgid "Media browser list"
+msgstr "Margmiðlunarefni"
+
+#: ding_content.module:18
+msgid "Ajax Callback for getting media"
+msgstr ""
+
+#: ding_content.info:0
+msgid "Ding Content"
+msgstr "Ding innihald"
+
+#: ding_content.info:0
+msgid "Create panels panes for Ding!"
+msgstr ""

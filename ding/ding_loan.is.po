@@ -1,0 +1,121 @@
+# $Id$
+#
+# Danish translation of Drupal (general)
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+# Generated from files:
+#  ding_loan.info: n/a
+#  plugins/content_types/loans.inc: n/a
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"POT-Creation-Date: 2017-12-08 17:40+0100\n"
+"PO-Revision-Date: 2018-02-01 11:05+0000\n"
+"Language-Team: Danish <EMAIL@ADDRESS>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 2.0.6\n"
+"Last-Translator: \n"
+"Language: is\n"
+
+#: ding_loan.info:0
+msgid "Ding loan"
+msgstr "Ding útlán"
+
+#: ding_loan.info:0
+msgid "Allows users to manage their loans."
+msgstr "Leyfir notendum að sýsla með útlánin sín."
+
+#: ding_loan.info:0
+msgid "Ding!"
+msgstr "Ding!"
+
+#: plugins/content_types/loans.inc:8
+msgid "User loan list"
+msgstr "Útlánalisti lánþega"
+
+#: plugins/content_types/loans.inc:9
+msgid "The current loans for a user"
+msgstr "Eintök í láni hjá notanda"
+
+#: plugins/content_types/loans.inc:12;13
+msgid "User"
+msgstr "Notandi"
+
+#: plugins/content_types/loans.inc:24
+msgid "Loan list"
+msgstr "Útlánalisti"
+
+#: plugins/content_types/loans.inc:25
+msgid "You do not currently have any loans."
+msgstr "Þú ert ekki með nein útlán."
+
+#: plugins/content_types/loans.inc:179
+msgid "Loan date"
+msgstr "Útlánadagur"
+
+#: plugins/content_types/loans.inc:185
+msgid "Return date"
+msgstr "Skiladagur"
+
+#: plugins/content_types/loans.inc:197
+msgid "Material no."
+msgstr "Eintakanúmer"
+
+#: plugins/content_types/loans.inc:209
+msgid "Periodical no."
+msgstr "Eintakanúmer"
+
+#: plugins/content_types/loans.inc:220
+msgid "This material can not be renewed"
+msgstr "Ekki hægt að endurnýja lán"
+
+#: plugins/content_types/loans.inc:241;267
+msgid "Renew all"
+msgstr "Endurnýja allt"
+
+#: plugins/content_types/loans.inc:260
+msgid "Renew selected (@count)"
+msgstr "Endurnýja valið (@count)"
+
+#: plugins/content_types/loans.inc:289
+msgid "Unable to renew material"
+msgstr "Ekki hægt að endurnýja þetta gagn"
+
+#: plugins/content_types/loans.inc:290
+msgid "Maximum number of renewals reached"
+msgstr "Hámarksfjölda endurnýjunar náð"
+
+#: plugins/content_types/loans.inc:291
+msgid "The material is reserved by another loaner"
+msgstr "Annar notandi hefur lagt inn pöntun fyrir gagninu"
+
+#: plugins/content_types/loans.inc:321
+msgid "\"@title renewed\""
+msgstr "\"Útlán á @title endurnýjað\""
+
+#: plugins/content_types/loans.inc:328
+msgid "\"@title: @message\""
+msgstr "\"@title: @message\""
+
+#: plugins/content_types/loans.inc:365
+msgid "Loans overdue"
+msgstr "Útlán í vanskilum"
+
+#: plugins/content_types/loans.inc:375
+msgid "Loans due today"
+msgstr "Útlán á skiladegi í dag"
+
+#: plugins/content_types/loans.inc:385
+msgid "Due in @count, @date"
+msgstr "Skiladagur er @date"
+
+#: plugins/content_types/loans.inc:335
+msgid "ding_loan"
+msgstr "ding_loan"
+
+#: plugins/content_types/loans.inc:335
+msgid "Unknown renewal status code @code."
+msgstr "Óþekkt villa við endurnýjun útláns: @code."

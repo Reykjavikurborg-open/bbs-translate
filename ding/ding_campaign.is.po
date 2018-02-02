@@ -1,0 +1,206 @@
+# $Id$
+#
+# Danish translation of Drupal (general)
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+# Generated from files:
+#  ding_campaign.admin.inc: n/a
+#  ding_campaign.features.field_instance.inc: n/a
+#  ding_campaign.features.inc: n/a
+#  ding_campaign.module: n/a
+#  ding_campaign.info: n/a
+#  plugins/content_types/campaign.inc: n/a
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"POT-Creation-Date: 2017-12-08 17:57+0100\n"
+"PO-Revision-Date: 2018-02-01 13:17+0000\n"
+"Language-Team: Danish <EMAIL@ADDRESS>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 2.0.6\n"
+"Last-Translator: \n"
+"Language: is\n"
+
+#: ding_campaign.admin.inc:21
+msgid "CAMPAIGN SELECTION NODE TYPES"
+msgstr ""
+
+#: ding_campaign.admin.inc:24
+msgid ""
+"Select node types which shall have campaign selector present in their "
+"editing form."
+msgstr ""
+
+#: ding_campaign.admin.inc:102
+msgid "Add another rule"
+msgstr "Bæta við reglu"
+
+#: ding_campaign.admin.inc:113
+msgid "Save rules"
+msgstr "Vista reglu"
+
+#: ding_campaign.admin.inc:201
+msgid "Rule type"
+msgstr "Gerð reglu"
+
+#: ding_campaign.admin.inc:219
+msgid "Rule value"
+msgstr "Gildi reglu"
+
+#: ding_campaign.features.field_instance.inc:500
+msgid "Campaign image"
+msgstr "Kynningarmynd"
+
+#: ding_campaign.features.field_instance.inc:501
+msgid "Campaign link"
+msgstr "Tengill á kynningarmynd"
+
+#: ding_campaign.features.field_instance.inc:502
+msgid "Campaign open in new window"
+msgstr "Opna kynningu í nýjum glugga"
+
+#: ding_campaign.features.field_instance.inc:503
+msgid "Campaign settings"
+msgstr "Stillingar kynningar"
+
+#: ding_campaign.features.field_instance.inc:504
+msgid "Campaign text"
+msgstr "Texti kynningar"
+
+#: ding_campaign.features.field_instance.inc:505
+msgid "Libraries and Groups"
+msgstr "Bókasöfn og hópar"
+
+#: ding_campaign.features.field_instance.inc:506
+msgid "Weight"
+msgstr "Vægi"
+
+#: ding_campaign.features.inc:22
+msgid "Campaign"
+msgstr "Kynning"
+
+#: ding_campaign.features.inc:24
+msgid ""
+"Create a new campaign that based on different rules will be shown in a given "
+"context on the site."
+msgstr ""
+"Búa til nýja kynningu sem birtist við ákveðin tilefni á vefnum skv. reglum "
+"fyrir kynningar."
+
+#: ding_campaign.features.inc:26
+msgid "Campaign name"
+msgstr "Nafn á kynningu"
+
+#: ding_campaign.module:73
+msgid "Access campaign rules"
+msgstr "Sjá reglur fyrir kynningar"
+
+#: ding_campaign.module:74
+msgid "Enable access to campaign nodes display rules"
+msgstr ""
+
+#: ding_campaign.module:16
+msgid "Campaigns"
+msgstr "Kynningar"
+
+#: ding_campaign.module:17
+msgid "Configure the campaigns."
+msgstr "Breyta kynningum."
+
+#: ding_campaign.module:25
+msgid "Campaign rules"
+msgstr "Reglur fyrir kynningar"
+
+#: ding_campaign.module:26
+msgid "Edit campaign rules"
+msgstr "Breyta reglum fyrir kynningar"
+
+#: ding_campaign.module:37
+msgid "Campaign rule autocomplete"
+msgstr "Sjálfvirk útfylling í reglum fyrir kynningar"
+
+#: ding_campaign.module:38
+msgid "Autocomplete field for campaign rule values."
+msgstr "Stilla sjálfvirka útfyllingu fyrir svæði í reglum fyrir kynningar."
+
+#: ding_campaign.info:0
+msgid "Ding campaign"
+msgstr "Ding kynning"
+
+#: ding_campaign.info:0
+msgid "Campaign system. Displays context-sensitive, ad-like campaigns."
+msgstr ""
+"Kynningakerfi. Birtir skilaboð til notenda vefsins skv. ákveðnum reglum og "
+"samhengi, svipað og auglýsingar."
+
+#: ding_campaign.info:0 plugins/content_types/campaign.inc:22
+msgid "Ding!"
+msgstr "Ding!"
+
+#: plugins/content_types/campaign.inc:9
+msgid "Relevant campaigns"
+msgstr "Tengdar kynningar"
+
+#: plugins/content_types/campaign.inc:10
+msgid "Display ad-like campaigns"
+msgstr "Birta kynningar"
+
+#: plugins/content_types/campaign.inc:17
+msgid "Page node"
+msgstr "Síða"
+
+#: plugins/content_types/campaign.inc:18
+msgid "Related library"
+msgstr "Tengt bókasafn"
+
+#: plugins/content_types/campaign.inc:19
+msgid "Search term"
+msgstr "Leitarorð"
+
+#: plugins/content_types/campaign.inc:20
+msgid "Taxonomy term"
+msgstr "Flokkunarhugtak"
+
+#: plugins/content_types/campaign.inc:53
+msgid "Campaign count"
+msgstr "Fjöldi kynninga"
+
+#: plugins/content_types/campaign.inc:54
+msgid "The maximum number of campaigns to display"
+msgstr "Hámarksfjöldi kynninga sem birtast í einu"
+
+#: plugins/content_types/campaign.inc:62
+msgid "Campaign offset"
+msgstr "Klipping kynninga"
+
+#: plugins/content_types/campaign.inc:63
+msgid ""
+"Which campaign should we count from when returning campaigns. This is used "
+"to avoid displaying the same campaigns when using multiple campaign panes on "
+"the same panel. Use 0 to return the most relevant campaigns."
+msgstr ""
+
+#: plugins/content_types/campaign.inc:71
+msgid "Campaign width"
+msgstr "Breidd kynningarmyndar"
+
+#: plugins/content_types/campaign.inc:72
+msgid "Applicable for campaigns. Content will be resized to selected width."
+msgstr ""
+"Á við kynningar. Efnið verður stækkað/minnkað til að passa við ákveðna "
+"breidd."
+
+#: plugins/content_types/campaign.inc:74
+msgid "Medium width"
+msgstr "Meðalbreidd"
+
+#: plugins/content_types/campaign.inc:75
+msgid "Full width"
+msgstr "Full breidd"
+
+#: plugins/content_types/campaign.inc:100
+msgid "%value must be a number larger than zero."
+msgstr "%value verður að vera hærra en núll."

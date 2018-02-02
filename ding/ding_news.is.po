@@ -1,0 +1,399 @@
+# $Id$
+#
+# Danish translation of Drupal (general)
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+# Generated from files:
+#  ding_news.admin.inc: n/a
+#  ding_news.features.field_instance.inc: n/a
+#  ding_news.features.inc: n/a
+#  ding_news.views_default.inc: n/a
+#  ding_news.module: n/a
+#  ding_news.info: n/a
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"POT-Creation-Date: 2017-12-08 17:39+0100\n"
+"PO-Revision-Date: 2018-02-02 10:57+0000\n"
+"Language-Team: Danish <EMAIL@ADDRESS>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 2.0.6\n"
+"Last-Translator: \n"
+"Language: is\n"
+
+#: ding_news.admin.inc:13
+msgid "Number of news"
+msgstr "Fjöldi frétta"
+
+#: ding_news.admin.inc:14
+msgid "Choose how many news items you want on each page in the news list"
+msgstr "Veldu hversu margar fréttir þú vilt birta yfirlitssíðu frétta"
+
+#: ding_news.features.field_instance.inc:983
+msgid "Body"
+msgstr "Meginmál"
+
+#: ding_news.features.field_instance.inc:984
+msgid "Category"
+msgstr "Flokkur"
+
+#: ding_news.features.field_instance.inc:985
+msgid "Display this event in the selected group (temapage)."
+msgstr "Birta þennan viðburð á valinni groups/theme síðu."
+
+#: ding_news.features.field_instance.inc:986
+msgid "Files"
+msgstr "Skjöl"
+
+#: ding_news.features.field_instance.inc:987
+msgid "Groups"
+msgstr "Hópar"
+
+#: ding_news.features.field_instance.inc:988
+msgid "Lead"
+msgstr "Inngangslína"
+
+#: ding_news.features.field_instance.inc:989
+msgid "Library"
+msgstr "Bókasafn"
+
+#: ding_news.features.field_instance.inc:990
+msgid "List image"
+msgstr "Listamynd"
+
+#: ding_news.features.field_instance.inc:991
+msgid "Materials"
+msgstr "Gögn"
+
+#: ding_news.features.field_instance.inc:992
+msgid "Select the libraries this content should be associated with."
+msgstr "Veldu bókasöfnin sem þetta efni tengist."
+
+#: ding_news.features.field_instance.inc:993
+msgid "Show as material list"
+msgstr "Birta sem lista yfir gögn"
+
+#: ding_news.features.field_instance.inc:994
+msgid "Tags"
+msgstr "Merki"
+
+#: ding_news.features.field_instance.inc:995
+msgid "Title image"
+msgstr "Titilmynd"
+
+#: ding_news.features.inc:107
+msgid "Nyhed"
+msgstr "Frétt"
+
+#: ding_news.features.inc:109
+msgid "A content type for news concerning libraries."
+msgstr "Efnistýpa fyrir fréttir tengdar bókasöfnum."
+
+#: ding_news.features.inc:111
+msgid "Overskrift"
+msgstr "Fyrirsögn"
+
+#: ding_news.views_default.inc:1937;2065
+msgid "Master"
+msgstr ""
+
+#: ding_news.views_default.inc:1938
+msgid "Library news"
+msgstr "Fréttir úr safninu"
+
+#: ding_news.views_default.inc:1939 ding_news.module:118
+msgid "See all news"
+msgstr "Sjá allar fréttir"
+
+#: ding_news.views_default.inc:1940
+msgid "Udfør"
+msgstr "Framkvæma"
+
+#: ding_news.views_default.inc:1941
+msgid "Gendan"
+msgstr "Bakka"
+
+#: ding_news.views_default.inc:1942
+msgid "Sortér efter"
+msgstr "Flokka eftir"
+
+#: ding_news.views_default.inc:1943
+msgid "Stigende"
+msgstr "Hækkandi"
+
+#: ding_news.views_default.inc:1944
+msgid "Faldende"
+msgstr "Lækkandi"
+
+#: ding_news.views_default.inc:1945
+msgid "Empty text"
+msgstr "Tómur texti"
+
+#: ding_news.views_default.inc:1946
+msgid "No news where found."
+msgstr "Engar fréttir fundust."
+
+#: ding_news.views_default.inc:1947
+msgid "author"
+msgstr "höfundur"
+
+#: ding_news.views_default.inc:1948
+msgid ""
+"<span class=\"news-label\">[field_ding_news_category]</span> <span class="
+"\"news-date\">[created]</span>  |  <span class=\"news-author\">af [name]</"
+"span>"
+msgstr ""
+"<span class=\"news-label\">[field_ding_news_category]</span> <span class="
+"\"news-date\">[created]</span>|<span class=\"news-author\">af [name]</"
+"span>"
+
+#: ding_news.views_default.inc:1949
+msgid "Læs mere"
+msgstr "Lesa meira"
+
+#: ding_news.views_default.inc:1950
+msgid "Alle"
+msgstr "Allir"
+
+#: ding_news.views_default.inc:1951
+msgid "News list (frontpage)"
+msgstr "Fréttalisti (forsíða)"
+
+#: ding_news.views_default.inc:1952
+msgid "<i class=\"icon-chevron-right\"></i>"
+msgstr ""
+
+#: ding_news.views_default.inc:1953
+msgid "News panes"
+msgstr "Fréttastikur"
+
+#: ding_news.views_default.inc:1954
+msgid "Library news list"
+msgstr "Listi yfir fréttir af safninu"
+
+#: ding_news.views_default.inc:1955
+msgid "OG membership from node"
+msgstr ""
+
+#: ding_news.views_default.inc:1956
+msgid "OG node group"
+msgstr ""
+
+#: ding_news.views_default.inc:1957
+msgid "All"
+msgstr "Allir"
+
+#: ding_news.views_default.inc:1958
+msgid "Library panes"
+msgstr "Bókasafnsstikur"
+
+#: ding_news.views_default.inc:1959
+msgid "News list"
+msgstr "Fréttalisti"
+
+#: ding_news.views_default.inc:1960;2067
+msgid "more"
+msgstr "meira"
+
+#: ding_news.views_default.inc:1961
+msgid "Antal elementer"
+msgstr "Fjöldi atriða"
+
+#: ding_news.views_default.inc:1962
+msgid "- Alle -"
+msgstr "- Allir -"
+
+#: ding_news.views_default.inc:1963
+msgid "Forskydning"
+msgstr "Klippa"
+
+#: ding_news.views_default.inc:1964
+msgid "« første"
+msgstr "« fyrsta"
+
+#: ding_news.views_default.inc:1965
+msgid "‹ forrige"
+msgstr "‹ fyrra"
+
+#: ding_news.views_default.inc:1966
+msgid "næste ›"
+msgstr "næsta ›"
+
+#: ding_news.views_default.inc:1967
+msgid "sidste »"
+msgstr "síðasta »"
+
+#: ding_news.views_default.inc:1968
+msgid "Library Feed"
+msgstr "Fréttaveita bókasafnsins"
+
+#: ding_news.views_default.inc:1969
+msgid "Feed"
+msgstr "Fréttaveita"
+
+#: ding_news.views_default.inc:1970
+msgid "Simple news list"
+msgstr "Einfaldur fréttalisti"
+
+#: ding_news.views_default.inc:1971
+msgid "News list (library)"
+msgstr "Fréttalisti (bókasafnsins)"
+
+#: ding_news.views_default.inc:1972
+msgid "User news simple list"
+msgstr "Einfaldur listi yfir fréttir tengdar notendum"
+
+#: ding_news.views_default.inc:1973
+msgid "Latest news posts"
+msgstr "Nýjustu fréttir"
+
+#: ding_news.views_default.inc:1974
+msgid "simple news list by user"
+msgstr "einfaldur fréttalisti búinn til af notanda"
+
+#: ding_news.views_default.inc:1975
+msgid "User news list"
+msgstr "Fréttalisti notenda"
+
+#: ding_news.views_default.inc:1976
+msgid "news list by user"
+msgstr "fréttalisti eftir notanda"
+
+#: ding_news.views_default.inc:1977
+msgid "« first"
+msgstr "« fyrsta"
+
+#: ding_news.views_default.inc:1978
+msgid "last »"
+msgstr "síðasta »"
+
+#: ding_news.views_default.inc:1979
+msgid "Groups news list"
+msgstr "Fréttalisti grúppu"
+
+#: ding_news.views_default.inc:1980
+msgid "Group news"
+msgstr "Fréttir group"
+
+#: ding_news.views_default.inc:1981
+msgid "."
+msgstr "."
+
+#: ding_news.views_default.inc:1982
+msgid "Groups panes"
+msgstr "Group svæði"
+
+#: ding_news.views_default.inc:1983
+msgid "News list (groups)"
+msgstr "Fréttalisti (groups)"
+
+#: ding_news.views_default.inc:1984
+msgid "News Image Crop list"
+msgstr "Listi yfir klipptar fréttamyndir"
+
+#: ding_news.views_default.inc:1985
+msgid "News Image Crop Overview"
+msgstr "Yfirlit yfir klipptar fréttamyndir"
+
+#: ding_news.views_default.inc:1986
+msgid "Items per page"
+msgstr "Atriði á síðu"
+
+#: ding_news.views_default.inc:1987
+msgid "- All -"
+msgstr "- Allt -"
+
+#: ding_news.views_default.inc:1988
+msgid "Offset"
+msgstr "Klippa"
+
+#: ding_news.views_default.inc:1989
+msgid "‹ previous"
+msgstr "‹ fyrra"
+
+#: ding_news.views_default.inc:1990
+msgid "next ›"
+msgstr "næsta ›"
+
+#: ding_news.views_default.inc:1991
+msgid "Rediger"
+msgstr "Breyta"
+
+#: ding_news.views_default.inc:1992
+msgid "Original Image"
+msgstr "Upprunaleg mynd"
+
+#: ding_news.views_default.inc:1993
+msgid "Cropped image"
+msgstr "Klippt mynd"
+
+#: ding_news.views_default.inc:2066
+msgid "News and events"
+msgstr "Fréttir og viðburðir"
+
+#: ding_news.views_default.inc:2068
+msgid "Apply"
+msgstr "Virkja"
+
+#: ding_news.views_default.inc:2069
+msgid "Reset"
+msgstr "Endurstilla"
+
+#: ding_news.views_default.inc:2070
+msgid "Sort by"
+msgstr "Raða eftir"
+
+#: ding_news.views_default.inc:2071
+msgid "Asc"
+msgstr "Hækkandi"
+
+#: ding_news.views_default.inc:2072
+msgid "Desc"
+msgstr "Lækkandi"
+
+#: ding_news.views_default.inc:2073
+msgid "Content pane"
+msgstr "Innihald"
+
+#: ding_news.views_default.inc:2074
+msgid "View panes"
+msgstr "Sjá svæði"
+
+#: ding_news.module:14
+msgid "Teaser highlight"
+msgstr "Úrdráttur"
+
+#: ding_news.module:146
+msgid "Administer news settings"
+msgstr "Breyta fréttastillingum"
+
+#: ding_news.module:88
+msgid "ding_news"
+msgstr ""
+
+#: ding_news.module:88
+msgid "Unable to create menu position rule for ding news"
+msgstr "Tókst ekki að búa til reglu um birtingu frétta í valmynd"
+
+#: ding_news.module:130
+msgid "Ding news settings"
+msgstr "Ding fréttastillingar"
+
+#: ding_news.module:131
+msgid "Administer news settings."
+msgstr "Breyta fréttastillingum."
+
+#: ding_news.info:0
+msgid "Ding news"
+msgstr "Ding fréttir"
+
+#: ding_news.info:0
+msgid "Defines news content type and related views"
+msgstr "Stillir efnistýpu frétta og tengd view"
+
+#: ding_news.info:0
+msgid "Ding!"
+msgstr "Ding!"

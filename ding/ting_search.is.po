@@ -20,7 +20,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "POT-Creation-Date: 2017-12-08 17:13+0100\n"
-"PO-Revision-Date: 2017-12-08 16:13+0000\n"
+"PO-Revision-Date: 2018-02-02 10:54+0000\n"
 "Last-Translator: NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Icelandic <EMAIL@ADDRESS>\n"
 "MIME-Version: 1.0\n"
@@ -28,14 +28,14 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n!=1);\n"
 "Language: is\n"
-"X-Generator: Poedit 2.0.5\n"
+"X-Generator: Poedit 2.0.6\n"
 
 #: ting_search.module:93 plugins/content_types/search_backends.inc:14
 #: plugins/content_types/search_per_page.inc:12
 #: plugins/content_types/search_result_count.inc:12
 #: plugins/content_types/ting_search.inc:9
 msgid "Ting"
-msgstr ""
+msgstr "Ting"
 
 #: ting_search.module:173
 msgid "Author"
@@ -43,7 +43,7 @@ msgstr "Höfundur"
 
 #: ting_search.module:174
 msgid "Enter the author name"
-msgstr ""
+msgstr "Sláðu inn nafn höfundar"
 
 #: ting_search.module:178 plugins/content_types/search_result.inc:94;95;163;184
 msgid "Title"
@@ -51,19 +51,19 @@ msgstr "Titill"
 
 #: ting_search.module:179
 msgid "Enter title"
-msgstr ""
+msgstr "Sláðu inn titil"
 
 #: ting_search.module:183 plugins/content_types/search_result.inc:97
 msgid "Subject"
-msgstr "Viðfangsefni"
+msgstr "Efnisorð"
 
 #: ting_search.module:184
 msgid "Enter subject keywords"
-msgstr ""
+msgstr "Sláðu inn efnisorð"
 
 #: ting_search.module:239
 msgid "Search the library"
-msgstr "Leita"
+msgstr "Leita í hillum bókasafnsins"
 
 #: ting_search.module:258
 msgid "Advanced search"
@@ -71,11 +71,11 @@ msgstr "Ítarleg leit"
 
 #: ting_search.module:568;704
 msgid "‹ previous"
-msgstr "‹ fyrri"
+msgstr "‹ fyrra"
 
 #: ting_search.module:579;715
 msgid "« first"
-msgstr "« fremsta"
+msgstr "« fyrsta"
 
 #: ting_search.module:589;725
 msgid "next ›"
@@ -83,7 +83,7 @@ msgstr "næsta ›"
 
 #: ting_search.module:599
 msgid "last »"
-msgstr "aftasta »"
+msgstr "síðasta »"
 
 #: ting_search.module:767
 msgid "Ting search \"sort by\" form"
@@ -99,63 +99,63 @@ msgstr ""
 
 #: ting_search.module:797
 msgid "Your query:"
-msgstr ""
+msgstr "Þín leit:"
 
 #: ting_search.module:821
 msgid "Sort"
-msgstr ""
+msgstr "Raða"
 
 #: ting_search.module:838
 msgid "Ranking"
-msgstr ""
+msgstr "Röðun"
 
 #: ting_search.module:839
 msgid "Title (Ascending)"
-msgstr ""
+msgstr "Titill (a - ö)"
 
 #: ting_search.module:840
 msgid "Title (Descending)"
-msgstr ""
+msgstr "Titill (ö - a)"
 
 #: ting_search.module:841
 msgid "Creator (Ascending)"
-msgstr ""
+msgstr "Höfundur (a - ö)"
 
 #: ting_search.module:842
 msgid "Creator (Descending)"
-msgstr ""
+msgstr "Höfundur (ö - a)"
 
 #: ting_search.module:843
 msgid "Date (Ascending)"
-msgstr ""
+msgstr "Útgáfuár (elsta fyrst)"
 
 #: ting_search.module:844
 msgid "Date (Descending)"
-msgstr ""
+msgstr "Útgáfuár (nýjast fyrst)"
 
 #: ting_search.module:853
 msgid "Best match on title"
-msgstr ""
+msgstr "Besta niðurstaða miðað við titil"
 
 #: ting_search.module:854
 msgid "Best match on creator"
-msgstr ""
+msgstr "Besta niðurstaða miðað við höfund"
 
 #: ting_search.module:855
 msgid "Best match on subject"
-msgstr ""
+msgstr "Besta niðurstaða miðað við efnisorð"
 
 #: ting_search.module:862
 msgid "Sort by: !sort"
-msgstr ""
+msgstr "Raða eftir: !sort"
 
 #: ting_search.module:1031
 msgid "Please enter some keywords."
-msgstr ""
+msgstr "Sláðu inn nokkur leitarorð."
 
 #: ting_search.module:1056
 msgid "Search is currently disabled."
-msgstr ""
+msgstr "Leitin er óvirk í augnablikinu."
 
 #: ting_search.module:40
 msgid "Search settings"
@@ -171,7 +171,7 @@ msgstr "Heimasíða"
 
 #: ting_search.module:80;81
 msgid "Data well"
-msgstr ""
+msgstr "Gagnagrunnur"
 
 #: ting_search.module:83;84
 msgid "Universal Search"
@@ -179,7 +179,7 @@ msgstr ""
 
 #: ting_search.info:0
 msgid "Ting search"
-msgstr ""
+msgstr "Ting leit"
 
 #: ting_search.info:0
 msgid "Searching for Ting."
@@ -187,7 +187,7 @@ msgstr ""
 
 #: ting_search.info:0
 msgid "Ding!"
-msgstr ""
+msgstr "Ding!"
 
 #: includes/ting_search.admin.inc:20
 msgid "Ting search settings"
@@ -195,11 +195,11 @@ msgstr ""
 
 #: includes/ting_search.admin.inc:28
 msgid "Default results per page"
-msgstr ""
+msgstr "Fjöldi niðurstaða á síðu"
 
 #: includes/ting_search.admin.inc:29
 msgid "Enter the number of results desplayed on the search page by default."
-msgstr ""
+msgstr "Sjálfgefinn fjöldi leitarniðurstaða sem birtast í einu."
 
 #: includes/ting_search.admin.inc:37
 msgid "Number of facets"
@@ -211,39 +211,39 @@ msgstr ""
 
 #: includes/ting_search.admin.inc:45
 msgid "Serie title"
-msgstr ""
+msgstr "Titill seríu"
 
 #: includes/ting_search.admin.inc:46
 msgid "Specify the searchstring to be used for searching against serie titles. Use @serietitle as a placeholder for the serietitle"
-msgstr ""
+msgstr "Tilgreinið leitarstreng fyrir leit að seríu, þar sem @serietitle stendur fyrir titil seríunnar"
 
 #: includes/ting_search.admin.inc:54
 msgid "Default sorting"
-msgstr ""
+msgstr "Sjálfgefinn flokkun"
 
 #: includes/ting_search.admin.inc:57
 msgid "Set the default sorting for search results."
-msgstr ""
+msgstr "Velja sjálfgefna niðurröðun fyrir leitarniðurstöður."
 
 #: includes/ting_search.admin.inc:63
 msgid "Display message"
-msgstr ""
+msgstr "Skilaboð um fjölda niðurstaðna"
 
 #: includes/ting_search.admin.inc:65
 msgid "Message to display when search has more than x results. The token %s will be substituted by the number choosen."
-msgstr ""
+msgstr "Skilaboð sem birtast þegar leit skilar fleiri en x niðurstöðum. \"%s\" stendur fyrir töluna sem er valin."
 
 #: includes/ting_search.admin.inc:69
 msgid "Translated from: %n."
-msgstr ""
+msgstr "Þýtt úr: %n."
 
 #: includes/ting_search.admin.inc:74
 msgid "Display message at"
-msgstr ""
+msgstr "Sýna skilaboð við"
 
 #: includes/ting_search.admin.inc:76
 msgid "The limit at wich the message is to be displayed."
-msgstr ""
+msgstr "Skilaboðin birtast þegar þessum fjölda er náð."
 
 #: includes/ting_search.admin.inc:81
 msgid "Search form style"
@@ -251,19 +251,19 @@ msgstr ""
 
 #: includes/ting_search.admin.inc:83
 msgid "Normal"
-msgstr ""
+msgstr "Venjuleg"
 
 #: includes/ting_search.admin.inc:84
 msgid "Extended"
-msgstr ""
+msgstr "Ítarleg"
 
 #: js/ting_search_extendform.js:0
 msgid " AND "
-msgstr ""
+msgstr " AND "
 
 #: js/ting_search_overlay.js:0
 msgid "Searching please wait..."
-msgstr ""
+msgstr "Leita, augnablik..."
 
 #: js/ting_search_overlay.js:0
 msgid "Cancel"
@@ -282,7 +282,7 @@ msgstr ""
 #: plugins/content_types/search_result.inc:11
 #: plugins/content_types/search_result_count.inc:13
 msgid "Keywords"
-msgstr ""
+msgstr "Leitarorð"
 
 #: plugins/content_types/search_backends.inc:98
 msgid "Search in"
@@ -290,7 +290,7 @@ msgstr "Leita í"
 
 #: plugins/content_types/search_per_page.inc:8
 msgid "Ting search - results per page"
-msgstr ""
+msgstr "Ting leit - niðurstöður á síðu"
 
 #: plugins/content_types/search_per_page.inc:9
 msgid "Display results per page selector."
@@ -298,11 +298,11 @@ msgstr ""
 
 #: plugins/content_types/search_per_page.inc:44
 msgid "Results on page:"
-msgstr ""
+msgstr "Fjöldi niðurstaða á síðu:"
 
 #: plugins/content_types/search_per_page.inc:83
 msgid "Number of search result per page: !num"
-msgstr ""
+msgstr "Fjöldi leitarniðurstaðna á síðu: !num"
 
 #: plugins/content_types/search_per_page.inc:99
 msgid "Size"
@@ -310,15 +310,15 @@ msgstr "Stærð"
 
 #: plugins/content_types/search_result.inc:9
 msgid "Ting search - Search results"
-msgstr ""
+msgstr "Ting leit - leitarniðurstöður"
 
 #: plugins/content_types/search_result.inc:10
 msgid "The results of a search using keywords."
-msgstr ""
+msgstr "Niðurstöður leitar sem notar leitarorð."
 
 #: plugins/content_types/search_result.inc:12
 msgid "Widgets"
-msgstr ""
+msgstr "Græjur/innbætur"
 
 #: plugins/content_types/search_result.inc:83
 msgid "results"
@@ -326,7 +326,7 @@ msgstr "niðurstöður"
 
 #: plugins/content_types/search_result.inc:96
 msgid "Creator"
-msgstr "Stofnandi"
+msgstr "Höfundur"
 
 #: plugins/content_types/search_result.inc:102
 msgid "Records are sorted by %sortUsed . Select another sort if it is not suited"
@@ -334,7 +334,7 @@ msgstr ""
 
 #: plugins/content_types/search_result.inc:108
 msgid "Your search gave more than %s results. Try to search more specific or use the facets to filter the result."
-msgstr ""
+msgstr "Leit þín skilaði meira en % niðurstöðum. Vinsamlegast þrengið leitarstreng eða notið flokk/efnisorð til að takmarka niðurstöður."
 
 #: plugins/content_types/search_result.inc:115
 #: templates/ting-search-results.tpl.php:13
@@ -348,7 +348,7 @@ msgstr "Leitin skilaði engum niðurstöðum"
 
 #: plugins/content_types/search_result.inc:145
 msgid "Search type"
-msgstr ""
+msgstr "Tegund leitar"
 
 #: plugins/content_types/search_result.inc:153
 msgid "Record a watchdog log entry when searches are made"
@@ -356,23 +356,23 @@ msgstr ""
 
 #: plugins/content_types/search_result.inc:159
 msgid "Override \"no result\" text"
-msgstr ""
+msgstr "Yfirskipa „Leitin skilaði engum niðurstöðum“-texta"
 
 #: plugins/content_types/search_result.inc:171;192
 msgid "No result text"
-msgstr ""
+msgstr "Texti fyrir engar leitarniðurstöður"
 
 #: plugins/content_types/search_result.inc:180
 msgid "Display text if no search keywords were submitted"
-msgstr ""
+msgstr "Birta texta ef engin leitarorð eru notuð"
 
 #: plugins/content_types/search_result.inc:221
 msgid "Missing/broken type"
-msgstr ""
+msgstr "Horfin/biluð tegund"
 
 #: plugins/content_types/search_result.inc:222
 msgid "@type search result"
-msgstr ""
+msgstr "@type leitarniðurstaða"
 
 #: plugins/content_types/search_result.inc:83
 msgid "search"
@@ -380,44 +380,44 @@ msgstr "leita"
 
 #: plugins/content_types/search_result.inc:83
 msgid "Searched %type for %keys."
-msgstr ""
+msgstr "Leitaði í %type eftir %keys."
 
 #: plugins/content_types/search_result_count.inc:8
 msgid "Ting search - page title"
-msgstr ""
+msgstr "Ting leit - yfirskrift síðu"
 
 #: plugins/content_types/search_result_count.inc:9
 msgid "Display title with result count."
-msgstr ""
+msgstr "Birta yfirskrift með fjölda niðurstaða."
 
 #: plugins/content_types/search_result_count.inc:31
 msgid "Search result"
-msgstr ""
+msgstr "Niðurstaða leitar"
 
 #: plugins/content_types/search_result_count.inc:43
 msgid "1 Result"
 msgid_plural "@count Results"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "1 niðurstaða"
+msgstr[1] "@count niðurstöður"
 
 #: plugins/content_types/ting_search.inc:4
 msgid "Ting search - search results text"
-msgstr ""
+msgstr "Ting leit - texti fyrir niðurstöður leitar"
 
 #: plugins/content_types/ting_search.inc:5
 msgid "Show a string with 'Showing x - y of z results'"
-msgstr ""
+msgstr "Birta streng með 'Sýni x - y af z niðurstöðum'"
 
 #: plugins/content_types/ting_search.inc:25
 msgid "Search results text"
-msgstr ""
+msgstr "Texti fyrir niðurstöður leitar"
 
 #: plugins/content_types/ting_search.inc:26
 msgid "Show %from-%to of 1 result"
 msgid_plural "Show %from-%to of <span class=\"placeholder\">@count</span> results"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Birta %from-%to af 1 niðurstöðu"
+msgstr[1] "Birti %from-%to af @count niðurstöðum"
 
 #: templates/ting-search-extended-search.tpl.php:12
 msgid "Clear fields"
-msgstr ""
+msgstr "Hreinsa leitarglugga"
